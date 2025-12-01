@@ -235,7 +235,9 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
 
 
 #EXTINF:0 tvg-id="RCTI HD - [Channel 430].id" tvg-logo="https://bloguna.com/wp-content/uploads/2025/06/Logo-RCTI-Format-PNG-AI-CDR-PDF-PDF-SVG-768x384.png" group-title="NASIONAL",RCTI ᴴᴰ Digital 
-http://hometv.biz.id:80/play/E4BSh-eTMsc07OXwIFkTWFly_pN8b3Tl2psOaFdpGi0
+#http://hometv.biz.id:80/play/E4BSh-eTMsc07OXwIFkTWFly_pN8b3Tl2psOaFdpGi0
+http://103.226.232.199:9003/play/a0jg/index.m3u8
+
 
 #EXTINF:0 tvg-id="RCTI HD - [Channel 430].id" tvg-logo="https://bloguna.com/wp-content/uploads/2025/06/Logo-RCTI-Format-PNG-AI-CDR-PDF-PDF-SVG-768x384.png" group-title="NASIONAL",RCTI ᴴᴰ live
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/

@@ -272,7 +272,9 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
 
 #EXTINF:0 tvg-id="GTV HD - [Channel 431].id" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/2498aa1ffc66cf53f77c63b77a787d3a.png" group-title="NASIONAL",GTV ᴴᴰ Digital 
 #http://hometv.biz.id:80/play/E4BSh-eTMsc07OXwIFkTWLNJ6yH6etUJ1pNu76Xmhag
-http://my.bianet.es.vip.hk:80///12/F36591/3f1a2b5c/157578
+#http://my.bianet.es.vip.hk:80///12/F36591/3f1a2b5c/157578
+https://tv.casindo.org/hls/57/57.m3u8
+
 
 =====
 
@@ -389,10 +391,9 @@ https://fta3-cdn-flr.visionplus.id/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index
 #EXTINF:-1 tvg-id="Sportstars 2 HD - [Channel 422].id" tvg-name="Sportstars 2 HD" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_98.png" group-title="SPORTS", SPORTSTARS 2 ᴴᴰ SEA GAMES 
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=ed1723eb360145ccafa1b466130186da:c7c4171e98de14c23be427f6ab16ef72
-https://d84q7nw4qf3j3.cloudfront.net/out/v1/eb98aca0a1be41f7b9c05dac051a250e/index.mpd
-
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d56316d3d77148d18bd1f23138247207:340620d36e8e8209a7608154ff0c96d4
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/53f83c799f4d4020b5af4bad889d7c42/index.mpd
 =
 
 #EXTINF:-1 tvg-id=""sportstar 3 HD" tvg-name="SPORTSTAR 3" tvg-logo="https://www.mncvision.id/userfile/channel_87.png" group-title="SPORTS",SPORTSTAR 3 ᴴᴰ (BRI LIGA 1)

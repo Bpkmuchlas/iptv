@@ -214,14 +214,19 @@ http://sweet-night-1d1d.worst.workers.dev/?id=18190&type=dash
 #KODIPROP:inputstream.adaptive.license_key=c3004565365a42d08e3bde39a516d64e:dbfdc0967cfbbed01dba730c99d9c14a
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/d6b026ad50f14b7f9af5ddd5450007d4/index.mpd
 
-
+#EXTINF:0 tvg-id="MNCTV HD - [Channel 432].id" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mnc_id_tv.png" group-title="NASIONAL",MNCTV ᴴᴰ (R+)
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-#EXTINF:0 tvg-id="MNCTV HD - [Channel 432].id" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mnc_id_tv.png" group-title="NASIONAL",MNCTV ᴴᴰ (R+)
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
 
 #EXTINF:0 tvg-id="MNCTV HD - [Channel 432].id" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mnc_id_tv.png" group-title="NASIONAL",MNCTV ᴴᴰ Digital 
 http://hometv.biz.id:80/play/E4BSh-eTMsc07OXwIFkTWFl4DGRbfqjwOn0TLQlU0uM
+
+#EXTINF:0 tvg-id="MNCTV HD - [Channel 432].id" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mnc_id_tv.png" group-title="NASIONAL",MNCTV ᴴᴰ live
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://liveplus.rctiplus.id/mnctv2023.m3u8
+
 =====
 
 #EXTINF:-1 tvg-id="RCTI HD - [Channel 430].id" tvg-name="RCTI" tvg-logo="https://bloguna.com/wp-content/uploads/2025/06/Logo-RCTI-Format-PNG-AI-CDR-PDF-PDF-SVG-768x384.png" group-title="NASIONAL", RCTI ᴴᴰ (v+)
@@ -275,6 +280,10 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
 #http://my.bianet.es.vip.hk:80///12/F36591/3f1a2b5c/157578
 https://tv.casindo.org/hls/57/57.m3u8
 
+#EXTINF:0 tvg-id="GTV HD - [Channel 431].id" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/2498aa1ffc66cf53f77c63b77a787d3a.png" group-title="NASIONAL",GTV ᴴᴰ live
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://liveplus.rctiplus.id/gtv2023.m3u8
 
 =====
 

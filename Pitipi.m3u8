@@ -223,6 +223,7 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
 http://hometv.biz.id:80/play/E4BSh-eTMsc07OXwIFkTWFl4DGRbfqjwOn0TLQlU0uM
 
 #EXTINF:0 tvg-id="MNCTV HD - [Channel 432].id" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mnc_id_tv.png" group-title="NASIONAL",MNCTV ᴴᴰ live
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://liveplus.rctiplus.id/mnctv2023.m3u8
@@ -281,6 +282,7 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
 https://tv.casindo.org/hls/57/57.m3u8
 
 #EXTINF:0 tvg-id="GTV HD - [Channel 431].id" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/2498aa1ffc66cf53f77c63b77a787d3a.png" group-title="NASIONAL",GTV ᴴᴰ live
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://liveplus.rctiplus.id/gtv2023.m3u8
@@ -303,6 +305,11 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/7b0404cd6a8a4a908123f10774854e46/in
 #EXTINF:-1 tvg-id="iNews HD - [Channel 433].id" tvg-name="iNEWS" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/773dea02b1aba8f709c668ca2ae43e1c.png" group-title="NASIONAL", INEWS ᴴᴰ Digital 
 http://hometv.biz.id:80/play/E4BSh-eTMsc07OXwIFkTWD-z3ZqCYULjkfjEXaAi6LM
 
+
+#EXTVLCOPT:http-user-agent=android-R+
+##EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+#EXTINF:-1 tvg-id="iNews HD - [Channel 433].id" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/773dea02b1aba8f709c668ca2ae43e1c.png" group-title="NASIONAL",INEWS ᴴᴰ live
+https://liveplus.rctiplus.id/inews2023.m3u8
 
 
 #EXTVLCOPT:http-user-agent=android-R+

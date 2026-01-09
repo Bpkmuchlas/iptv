@@ -383,6 +383,29 @@ https://d1vckova5fh9mt.cloudfront.net/out/v1/17c724036c5f4615bd0b8093126b5c44/in
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
 
 
+https://live.vivo200.com/live/hd-en-1-4438980.m3u8?txSecret=5eeab1073aaa4588d504cc2e515e2d59&txTime=6961504B 200
+
+Response Headers
+
+cache-control: no-cache
+content-length: 320
+content-type: application/vnd.apple.mpegurl
+last-modified: Fri, 09 Jan 2026 22
+
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-ALLOW-CACHE:NO
+#EXT-X-MEDIA-SEQUENCE:1767967011
+#EXT-X-TARGETDURATION:4
+#EXTINF:4,
+hd-en-1-4438980-1767967011.ts?txspiseq=108987648886842773115
+#EXTINF:4,
+hd-en-1-4438980-1767967012.ts?txspiseq=108987648886842773115
+#EXTINF:4,
+hd-en-1-4438980-1767967013.ts?txspiseq=108987648886842773115
+
+
+
 ====SPORTSTAR CH====
 
 #EXTINF:-1 tvg-id="Sportstars - [Channel 102].id" tvg-name="Sportstars" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_102.png" group-title="SPORTS", SPORTSTARS ᴴᴰ

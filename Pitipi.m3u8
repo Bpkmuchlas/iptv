@@ -80,7 +80,7 @@ https://bintangstreaming.my.id/connect/index.m3u8?channel=live3&type=m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png" group-title="LIGA INDONESIA", BRI 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://live.vivo200.com/live/sd-1-4379413.m3u8?txSecret=cf5b2853a374bcba4fbca233fd498ea8&txTime=69873E70
+https://raw.githubusercontent.com/Bpkmuchlas/iptv/refs/heads/main/Hazeng.m3u8
 
 
 #EXTVLCOPT:http-origin=https://morgan.h3eaulperhapsfuzkhurried.shop
@@ -90,7 +90,7 @@ https://live.vivo200.com/live/sd-1-4379413.m3u8?txSecret=cf5b2853a374bcba4fbca23
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png" group-title="LIGA INDONESIA", BRI 2 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://live.vivo200.com/live/sd-1-4379299.m3u8?txSecret=f2639333d68f5f398272a2ad23404b34&txTime=69873E76
+https://raw.githubusercontent.com/Bpkmuchlas/iptv/refs/heads/main/Huek.m3u8
 
 
 

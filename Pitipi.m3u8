@@ -88,8 +88,9 @@ https://raw.githubusercontent.com/Bpkmuchlas/iptv/refs/heads/main/Hazeng.m3u8
 #https://tfs13geadrmtzgwzdnpbzfahuommpqjizqcjoge41h3mrc71s4amacp1gh.100ycdn.com/mrkw1025.edgemaxcdn.org/live/tichsd1Rk/playlist.m3u8?wsSession=622d46d2a828bcd1247d6878-176683850686665&wsIPSercert=78d1588be4999f48de362e75da32f2ac&wsiphost=local&wsBindIP=1 
 
 
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png" group-title="LIGA INDONESIA", BRI 2 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/Bpkmuchlas/iptv/refs/heads/main/Huek.m3u8
 
 
@@ -141,7 +142,7 @@ https://sweet-night-1d1d.worst.workers.dev/?id=9182&type=dash
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=9183&type=drm 
+#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-11d.worst.workers.dev/?id=9183&type=drm 
 https://sweet-night-1d1d.worst.workers.dev/?id=9183&type=dash
 
 ===

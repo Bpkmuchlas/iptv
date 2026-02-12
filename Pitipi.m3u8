@@ -229,9 +229,7 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/d6b026ad50f14b7f9af5ddd5450007d4/in
 #EXTINF:0 tvg-id="MNCTV HD - [Channel 432].id" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mnc_id_tv.png" group-title="NASIONAL",MNCTV ᴴᴰ (R+)
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://mnctv-cutv.rctiplus.id/mnctv-sdi.m3u8
-
-#https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
 
 #EXTINF:0 tvg-id="MNCTV HD - [Channel 432].id" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mnc_id_tv.png" group-title="NASIONAL",MNCTV ᴴᴰ Digital 
 http://hometv.biz.id:80/play/E4BSh-eTMsc07OXwIFkTWFl4DGRbfqjwOn0TLQlU0uM
@@ -254,10 +252,7 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/in
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTINF:0 tvg-id="RCTI HD - [Channel 430].id" tvg-logo="https://bloguna.com/wp-content/uploads/2025/06/Logo-RCTI-Format-PNG-AI-CDR-PDF-PDF-SVG-768x384.png" group-title="NASIONAL",RCTI ᴴᴰ (R+)
-https://rcti-cutv.rctiplus.id/rcti-sdi.m3u8
-
-
-#https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
 
 
 #EXTINF:0 tvg-id="RCTI HD - [Channel 430].id" tvg-logo="https://bloguna.com/wp-content/uploads/2025/06/Logo-RCTI-Format-PNG-AI-CDR-PDF-PDF-SVG-768x384.png" group-title="NASIONAL",RCTI ᴴᴰ Digital 
@@ -290,9 +285,7 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/b8b9b1d5f80f45649b4a3619291551ab/in
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTINF:0 tvg-id="GTV HD - [Channel 431].id" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/2498aa1ffc66cf53f77c63b77a787d3a.png" group-title="NASIONAL",GTV ᴴᴰ (R+)
-https://gtv-cutv.rctiplus.id/gtv-sdi.m3u8
-
-#https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
 
 
 #EXTINF:0 tvg-id="GTV HD - [Channel 431].id" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/2498aa1ffc66cf53f77c63b77a787d3a.png" group-title="NASIONAL",GTV ᴴᴰ Digital 
@@ -311,9 +304,7 @@ https://liveplus.rctiplus.id/gtv2023.m3u8
 #EXTVLCOPT:http-user-agent=android-R+
 ##EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTINF:-1 tvg-id="iNews HD - [Channel 433].id" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/773dea02b1aba8f709c668ca2ae43e1c.png" group-title="NASIONAL",INEWS ᴴᴰ (R+)
-https://inews-cutv.rctiplus.id/inews-sdi.m3u8
-
-#https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
 
 #EXTINF:-1 tvg-id="iNews HD - [Channel 433].id" tvg-name="iNEWS" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/773dea02b1aba8f709c668ca2ae43e1c.png" group-title="NASIONAL", INEWS ᴴᴰ (v+)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/

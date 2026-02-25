@@ -69,11 +69,13 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
 						===sport vidio===
 
 #EXTINF:-1 tvg-name="Indosiar.id" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="LIGA INDONESIA", INDOSIARᴴᴰ Live vidio
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+https://raw.githubusercontent.com/Bpkmuchlas/iptv/refs/heads/main/Tess.m3u8
+
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://manamedian.serv00.net/antaubospanel.php/manifest.mpd?id=19544&type=drm
-https://manamedian.serv00.net/antaubospanel.php/manifest.mpd?id=19544&type=dash
+#https://manamedian.serv00.net/antaubospanel.php/manifest.mpd?id=19544&type=dash
 
 
 https://v4-a0504dae9c72cdb02b00ddedf6df4973.livehwc4.com/stream.titanlivescore.com/live/LXSCORE-100000081.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=e325db32656ed9917940db1845b82d57

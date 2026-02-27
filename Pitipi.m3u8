@@ -560,8 +560,10 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/index.m3u8
 https://master.drmstuff.my.id:443/play/Nde5DS_M4vXJWfkBUZU97cu7NFz523e7RPu2QHmf7d4
 ==
 
-#EXTINF:-1 group-title="NASIONAL"  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/8d73d72ec854dfe8a9c9865555bb9728.png",CNBC INDONESIA IDH
-https://cdn09jtedge.indihometv.com/joss/134/cnbcasia/index.m3u8?c
+#EXTINF:-1 tvg-name="CNBC.id" group-title="NASIONAL"  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/8d73d72ec854dfe8a9c9865555bb9728.png",CNBC INDONESIA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
+
 
 #EXTINF:-1 group-title="NASIONAL"  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/8d72ec854dfe8a9c9865555bb9728.png",CNBC INDONESIA DIGITAL 
 https://master.drmstuff.my.id:443/play/Nde5DS_M4vXJWfkBUZU97ZOaFY4RquGULHrpZoqUYJA

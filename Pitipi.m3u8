@@ -841,14 +841,26 @@ https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
 https://master.drmstuff.my.id:443/play/Nde5DS_M4vXJWfkBUZU97fkfNEvHb4YD2BaYaP6OKUs
 
 
+
+#EXTINF:-1 tvg-logo="https://iili.io/JmFZtFs.png" group-title="1. INDONESIA",TVR Parlemen
+http://103.18.181.69:1935/golive/livestream/chunklist_w1350607412.m3u8
+
+
+
+
+===SPORT TVRI
+
+#EXTINF:-1 tvg-name="TVRI SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/58/TVRI_Sport_2017.png" group-title="SPORTS", TVRI SPORT ᴴᴰ 
+https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
+
+
+========
+
+
 #EXTINF:-1 tvg-id="MBGTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQi0Ae7fJuFOt4B6E-k0j0YYLsCPtqRbDnJ6cGGvL8Y31kY3EVGtQU6t5pC&s=10" group-title="NASIONAL", MBGTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko)
 https://stream.convergen.co/mbg_stream/smil:mbStream.smil/playlist.m3u8
 
-====
-
-#EXTINF:-1 tvg-name="TVRI SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/58/TVRI_Sport_2017.png" group-title="SPORTS", TVRI SPORT ᴴᴰ 
-https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 
 ====TVRI DAERAH====
 

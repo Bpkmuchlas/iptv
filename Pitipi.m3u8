@@ -578,6 +578,8 @@ https://cdn09jtedge.indihometv.com/joss/134/cnbcasia/index.m3u8?c
 https://cdn09jtedge.indihometv.com/joss/133/cnnindonesia/index.m3u8?c
 
 
+
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
 #EXTVLCOPT:http-referrer=https://visionplus.id

@@ -359,13 +359,16 @@ http://hometv.biz.id:80/play/E4BSh-eTMsc07OXwIFkTWOAfvC7EtwjIHA4qhoe0VU0
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
-https://cempedak-live-cdn.mncnow.id/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-HDD.mpd
+#https://cempedak-live-cdn.mncnow.id/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-HDD.mpd
+https://cdn10jtedge.indihometv.com/atm/DASH/mncnews/manifest.mpd
+
 
 #EXTINF:-1 tvg-name="Sindo News TV HD - [Channel 434].id" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/8b87b060c72b157ad6ee4f1d2b025e31.png" group-title="NEWS", SINDO NEWS (v+)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
-https://cempedak-live-cdn.mncnow.id/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-HDD.mpd
+#https://cempedak-live-cdn.mncnow.id/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-HDD.mpd
+https://cdn10jtedge.indihometv.com/atm/DASH/mncnews/manifest.mpd
 
 ====JOWO CH====
 

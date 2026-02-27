@@ -796,7 +796,7 @@ https://cdn09jtedge.indihometv.com/joss/130/muitv/index.m3u8?c
 ====JTV====
 
 #EXTINF:-1 group-title="NASIONAL" tvg-logo="https://www.lyngsat.com/logo/tv/jj/jtv_id.png", JTV REK
-https://63b2dc7196c38.streamlock.net:1937/ch2/myStream/playlist.m3u8
+http://122.248.43.242:1935/JTVSURABAYA/_definst_/myStream/playlist.m3u8
 
 #EXTINF:-1 group-title="NASIONAL" tvg-logo="https://www.lyngsat.com/logo/tv/jj/jtv_id.png", JTV REK 2
 http://ktpremium.xyz:2095/live/QPP76780098/A904599/73627.m3u8

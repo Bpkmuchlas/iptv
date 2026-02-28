@@ -561,27 +561,18 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/index.m3u8
 
 #EXTINF:-1 tvg-name="CNN INDONESIA" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/8d73d72ec854dfe8a9c9865555bb9728.png" group-title="NASIONAL",CNN INDONESIA ᴴᴰ DIGITAL
 https://master.drmstuff.my.id:443/play/Nde5DS_M4vXJWfkBUZU97cu7NFz523e7RPu2QHmf7d4
+
 ==
 
-#EXTINF:-1 tvg-name="CNBC.id" group-title="NASIONAL"  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/8d73d72ec854dfe8a9c9865555bb9728.png",CNBC INDONESIA
+#EXTINF:-1 tvg-name="CNBC INDONESIA" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/4415ae88fbabaa7f388eaa7dead5e038.png" group-title="NASIONAL", CNBC INDONESIA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-name="CNBC INDONESIA" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/4415ae88fbabaa7f388eaa7dead5e038.png" group-title="NEWS", CNBC INDONESIA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="NASIONAL"  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/8d72ec854dfe8a9c9865555bb9728.png",CNBC INDONESIA DIGITAL 
-https://master.drmstuff.my.id:443/play/Nde5DS_M4vXJWfkBUZU97ZOaFY4RquGULHrpZoqUYJA
-
-#EXTINF:-1 group-title="NASIONAL"  tvg-logo="https://images.indihometv.com/logo_cnninternational_ver1.png",CNN INTERNATIONAL IDH
-https://cdn09jtedge.indihometv.com/joss/133/cnnindonesia/index.m3u8?c
-
-#EXTINF:-1 group-title="NEWS"  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/8d73d72ec854dfe8a9c9865555bb9728.png",CNBC INDONESIA IDH
-https://cdn09jtedge.indihometv.com/joss/134/cnbcasia/index.m3u8?c
-
-#EXTINF:-1 group-title="NEWS"  tvg-logo="https://images.indihometv.com/logo_cnninternational_ver1.png",CNN INTERNATIONAL IDH
-https://cdn09jtedge.indihometv.com/joss/133/cnnindonesia/index.m3u8?c
-
-
-
+==
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
@@ -595,11 +586,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/IDX/sa_dash_vmx/IDX.mpd
 #EXTINF:-1 group-title="NASIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/SEA_Today_Indonesia_Logo.png", SEA Today v+
 https://cempedak-live-cdn.mncnow.id/live/eds/SEA-Channel/sa_dash_vmx/SEA-Channel.mpd
 
-#EXTINF:-1 tvg-name="CNBC INDONESIA" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/4415ae88fbabaa7f388eaa7dead5e038.png" group-title="NASIONAL", CNBC INDONESIA
-https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
 
-#EXTINF:-1 tvg-name="CNBC INDONESIA" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/4415ae88fbabaa7f388eaa7dead5e038.png" group-title="NEWS", CNBC INDONESIA
-https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
 
 
                                   ====SPOTRS Transvision====

@@ -672,7 +672,7 @@ https://flv.intechmedia.net/live/ch107.m3u8
 
 	=====RAJAWALI GROUB====
 
-#EXTINF:-1 tvg-name="RTV.id" tvg-logo="https://static.mncnow.id/images/channel/c8369888/3fdb_r32.jpg" group-title="NASIONAL", RTV ᴴᴰ v+
+#EXTINF:-1 tvg-name="RTV.id" tvg-logo="https://assets.pikiran-rakyat.com/crop/0x0:0x0/720x0/webp/photo/2022/10/18/2953189217.jpeg" group-title="NASIONAL", RTV ᴴᴰ v+
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
@@ -680,7 +680,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
 
 
 
-#EXTINF:-1 tvg-id="RTV.id" tvg-logo="https://static.mncnow.id/images/channel/c8369888/3fdb_r32.jpg" group-title="NASIONAL",RTV ᴴᴰ DIGITAL
+#EXTINF:-1 tvg-id="RTV.id" tvg-logo="https://assets.pikiran-rakyat.com/crop/0x0:0x0/720x0/webp/photo/2022/10/18/2953189217.jpeg" group-title="NASIONAL",RTV ᴴᴰ DIGITAL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 http://hometv.biz.id:80/play/E4BSh-eTMsc07OXwIFkTWCFLQyGMBBW5-hbEuvD5BEQ
 

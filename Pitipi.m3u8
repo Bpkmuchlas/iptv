@@ -609,31 +609,31 @@ https://play.accolamedia.id/accola/psj.stream/playlist.m3u8
 
 ========================================VIVA GROUB========================================
 
-#EXTINF:-1 tvg-id="ANTV - [Channel 115].id" tvg-name="ANTV" tvg-logo="https://www.visionplus.id/images/repository/959/49959-SNAPSHOT-l.png" group-title="NASIONAL", ANTV ᴴᴰ (v+)
+#EXTINF:-1 tvg-id="ANTV - [Channel 115].id" tvg-name="ANTV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_115.png" group-title="NASIONAL", ANTV ᴴᴰ (v+)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=251c384e846841abafa1f7c723d57e66:e45b06a38cd261b74c5160f0912c042f
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/0a6c6b1534444ab4bd903af8761e6747/index.mpd
 
-#EXTINF:-1 tvg-id="ANTV - [Channel 115].id" tvg-logo="https://www.visionplus.id/images/repository/959/49959-SNAPSHOT-l.png" group-title="NASIONAL", ANTV ᴴᴰ
+#EXTINF:-1 tvg-id="ANTV - [Channel 115].id" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_115.png" group-title="NASIONAL", ANTV ᴴᴰ
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b4899559135b490d98a892c1d6a45e20:6b5feff6a7242dc4b4345bedb84c2181
 #https://atemecdnbalancer-voe.sysln.id/live/eds/ANTV/mpd/ANTV.mpd
 
-#EXTINF:-1 tvg-id="ANTV - [Channel 115].id" tvg-logo="https://www.visionplus.id/images/repository/959/49959-SNAPSHOT-l.png" group-title="NASIONAL", ANTV ᴴᴰ Digital 
+#EXTINF:-1 tvg-id="ANTV - [Channel 115].id" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_115.png" group-title="NASIONAL", ANTV ᴴᴰ Digital 
 http://my.bianet.es.vip.hk:80///12/F36591/3f1a2b5c/165072
 
 
 
 ====
 
-#EXTINF:-1 tvg-name="TvONE.id" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-10/1ff4e1118db486e897f955e9733419e2.png" group-title="NASIONAL", TV ONE ᴴᴰ¹
+#EXTINF:-1 tvg-name="TvOne.id" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-10/1ff4e1118db486e897f955e9733419e2.png" group-title="NASIONAL", TV ONE ᴴᴰ¹
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://op-group1-swiftservehd-1.dens.tv/h/h40/02.m3u8
 
-#EXTINF:-1 tvg-name="TV ONE.id" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-10/1ff4e1118db486e897f955e9733419e2.png" group-title="NASIONAL", TV ONE ᴴᴰ (v+)
+#EXTINF:-1 tvg-name="TVOne.id" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-10/1ff4e1118db486e897f955e9733419e2.png" group-title="NASIONAL", TV ONE ᴴᴰ (v+)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=eab667a8f7f14ff7bf00d790314a10f0:1d6693bc942f036053fc1c3c3b3b5032
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -641,7 +641,7 @@ https://op-group1-swiftservehd-1.dens.tv/h/h40/02.m3u8
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/f3df48faafaf4198a65b9763140fce30/index.mpd
 
 
-#EXTINF:-1 tvg-name="TV ONE.id" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-10/1ff4e1118db486e897f955e9733419e2.png" group-title="NASIONAL", TV ONE ᴴᴰ Digital 
+#EXTINF:-1 tvg-name="Tv One.id" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-10/1ff4e1118db486e897f955e9733419e2.png" group-title="NASIONAL", TV ONE ᴴᴰ Digital 
 http://hometv.biz.id:80/play/E4BSh-eTMsc07OXwIFkTWGXdI4vNZYJo-u-PitaTDKA
 
 
@@ -763,7 +763,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h39/01.m3u8
 
 ====BTV GRUB===
 
-#EXTINF:-1 tvg-name="Btv.id" group-title="NASIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/BTV_%28Indonesia%29_logo.svg/244px-BTV_%28Indonesia%29_logo.svg.png", BTV 
+#EXTINF:-1 tvg-name="Btv.id" group-title="NASIONAL" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_103.png", BTV 
 https://btv.secureswiftcontent.com/han/btv/btv10005/srtoutput/manifest.m3u8
 
 

@@ -342,12 +342,12 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/7b0404cd6a8a4a908123f10774854e46/in
 
 
 
-#EXTINF:-1 tvg-id="MDTV.id" tvg-name="MDTV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/708e6db12bbe5bfc95557e44f72ab6a0.png" group-title="NASIONAL", MDTV ᴴᴰ
+#EXTINF:-1 tvg-id="MDTV.id" tvg-name="MDTV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_116.png" group-title="NASIONAL", MDTV ᴴᴰ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://op-group1-swiftservesd-1.dens.tv/h/h06/01.m3u8
 
 
-#EXTINF:-1 tvg-id="MDTV.id" tvg-name="MDTV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/708e6db12bbe5bfc95557e44f72ab6a0.png" group-title="NASIONAL", MDTV ᴴᴰ DIGITAL 
+#EXTINF:-1 tvg-id="MDTV.id" tvg-name="MDTV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_116.png" group-title="NASIONAL", MDTV ᴴᴰ DIGITAL 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://hometv.biz.id:80/play/E4BSh-eTMsc07OXwIFkTWOAfvC7EtwjIHA4qhoe0VU0
 

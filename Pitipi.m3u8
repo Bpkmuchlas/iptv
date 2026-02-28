@@ -636,6 +636,15 @@ http://hometv.biz.id:80/play/E4BSh-eTMsc07OXwIFkTWGXdI4vNZYJo-u-PitaTDKA
 https://op-group1-swiftservehd-1.dens.tv/h/h40/02.m3u8
 
 
+
+===
+
+
+#EXTINF:-1 tvg-name="Berita Satu.id"  tvg-logo="https://i.ibb.co.com/PgFHMBw/20250101-164251.jpg" group-title="NASIONAL",Berita Satu
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+http://stviptv.my.id/myvidio/vidiogratis.php/manifest.mpd?id=18280
+
+
 ====
 
 #EXTINF:-1 group-title="KIDS" tvg-id="" tvg-logo="https://i.ytimg.com/vi/-e5oOiMZ2zI/maxresdefault.jpg",VTV

@@ -565,17 +565,17 @@ http://hometv.biz.id:80/play/E4BSh-eTMsc07OXwIFkTWMG0jQoMe8qNE6lJdLY3kV
 
 ===
 
-#EXTINF:-1 tvg-name="CNN INDONESIA.id" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/8d73d72ec854dfe8a9c9865555bb9728.png" group-title="NASIONAL",CNN INDONESIA ᴴᴰ
+#EXTINF:-1 tvg-name="CNN Indoneaia.id" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/8d73d72ec854dfe8a9c9865555bb9728.png" group-title="NASIONAL",CNN INDONESIA ᴴᴰ
 #EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/index.m3u8
 
 
-#EXTINF:-1 tvg-name="CNN INDONESIA.id" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/8d73d72ec854dfe8a9c9865555bb9728.png" group-title="NEWS",CNN INDONESIA ᴴᴰ
+#EXTINF:-1 tvg-name="CNN Indoneaia.id" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/8d73d72ec854dfe8a9c9865555bb9728.png" group-title="NEWS",CNN INDONESIA ᴴᴰ
 #EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/index.m3u8
 
 
-#EXTINF:-1 tvg-name="CNN INDONESIA.id" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/8d73d72ec854dfe8a9c9865555bb9728.png" group-title="NASIONAL",CNN INDONESIA ᴴᴰ DIGITAL
+#EXTINF:-1 tvg-name="CNN Indonesia.id" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/8d73d72ec854dfe8a9c9865555bb9728.png" group-title="NASIONAL",CNN INDONESIA ᴴᴰ DIGITAL
 https://master.drmstuff.my.id:443/play/Nde5DS_M4vXJWfkBUZU97cu7NFz523e7RPu2QHmf7d4
 
 ==
@@ -584,20 +584,20 @@ https://master.drmstuff.my.id:443/play/Nde5DS_M4vXJWfkBUZU97cu7NFz523e7RPu2QHmf7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-name="CNBC INDONESIA.id" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_337.png" group-title="NEWS", CNBC INDONESIA
+#EXTINF:-1 tvg-name="CNBC Indonesia.id" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_337.png" group-title="NEWS", CNBC INDONESIA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
 
 ==
 
 
-#EXTINF:-1 group-title="NASIONAL" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/aba9289c98406c8b6eaba1925ec4d591.png", IDX Channel 
+#EXTINF:-1 tvg-name="IDX Channel.id" group-title="NASIONAL" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/aba9289c98406c8b6eaba1925ec4d591.png", IDX Channel 
 https://cdn10jtedge.indihometv.com/atm/DASH/idx/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/SEA_Today_Indonesia_Logo.png", SEA Today v+
+#EXTINF:-1 tvg-name="SEA Today.id" group-title="NASIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/SEA_Today_Indonesia_Logo.png", SEA Today v+
 https://cempedak-live-cdn.mncnow.id/live/eds/SEA-Channel/sa_dash_vmx/SEA-Channel.mpd
 
 
@@ -662,7 +662,7 @@ http://stviptv.my.id/myvidio/vidiogratis.php/manifest.mpd?id=18280
 
 ====
 
-#EXTINF:-1 group-title="KIDS" tvg-id="VTV INDONESIA.id" tvg-logo="https://i.ytimg.com/vi/-e5oOiMZ2zI/maxresdefault.jpg",VTV
+#EXTINF:-1 group-title="KIDS" tvg-id="VTV Indonesia.id" tvg-logo="https://i.ytimg.com/vi/-e5oOiMZ2zI/maxresdefault.jpg",VTV
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
 https://flv.intechmedia.net/live/ch107.m3u8
 
@@ -689,7 +689,7 @@ http://hometv.biz.id:80/play/E4BSh-eTMsc07OXwIFkTWCFLQyGMBBW5-hbEuvD5BEQ
 
 	====KOMPASTV==== 
 
-#EXTINF:-1 tvg-name="Kompas TV.id tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-10/6dca0f82c0415242463eab39b28fd715.png" group-title="NASIONAL", KOMPAS TV ᴴᴰ
+#EXTINF:-1 tvg-name="Kompas TV.id" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-10/6dca0f82c0415242463eab39b28fd715.png" group-title="NASIONAL", KOMPAS TV ᴴᴰ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h234/02.m3u8
 
@@ -697,13 +697,13 @@ http://op-group1-swiftservehd-1.dens.tv/h/h234/02.m3u8
 #EXTINF:-1 tvg-name="Kompas TV.id" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-10/6dca0f82c0415242463eab39b28fd715.png" group-title="NASIONAL", KOMPAS TV ᴴᴰ (v+)
 https://cempedak-live-cdn.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
 
-#EXTINF:-1 tvg-name="KompasTV.id" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-10/6dca0f82c0415242463eab39b28fd715.png" group-title="NASIONAL", KOMPAS TV ᴴᴰ DIGITAL 
+#EXTINF:-1 tvg-name="Kompas TV.id" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-10/6dca0f82c0415242463eab39b28fd715.png" group-title="NASIONAL", KOMPAS TV ᴴᴰ DIGITAL 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 http://hometv.biz.id:80/play/E4BSh-eTMsc07OXwIFkTWB9AmTPG8vdZMwDW5WSPyYU
 
 
 
-#EXTINF:-1 tvg-name="KOMPASTV.id" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-10/6dca0f82c0415242463eab39b28fd715.png" group-title="NEWS", KOMPAS TV ᴴᴰ
+#EXTINF:-1 tvg-name="Kompas TV.id" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-10/6dca0f82c0415242463eab39b28fd715.png" group-title="NEWS", KOMPAS TV ᴴᴰ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h234/02.m3u8
 
@@ -737,20 +737,20 @@ http://op-group1-swiftservehd-1.dens.tv/h/h12/index.m3u8?app_type=web&amp;userid
 
 ===
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/OKs6W73lGGE835lgmojVmts24NY=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/8815/metro-globe-network-1ab3f1.jpg" group-title="NASIONAL", METRO GLOBE NETWORK
+#EXTINF:-1 tvg-name="Metro Globe Network.id" tvg-logo="https://thumbor.prod.vidiocdn.com/OKs6W73lGGE835lgmojVmts24NY=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/8815/metro-globe-network-1ab3f1.jpg" group-title="NASIONAL", METRO GLOBE NETWORK
 https://edge.medcom.id/live-edge/smil:mgnch.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/OKs6W73lGGE835lgmojVmts24NY=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/8815/metro-globe-network-1ab3f1.jpg" group-title="NEWS", METRO GLOBE NETWORK
+#EXTINF:-1 tvg-name="Metro Globe Network.id" tvg-logo="https://thumbor.prod.vidiocdn.com/OKs6W73lGGE835lgmojVmts24NY=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/8815/metro-globe-network-1ab3f1.jpg" group-title="NEWS", METRO GLOBE NETWORK
 https://edge.medcom.id/live-edge/smil:mgnch.smil/playlist.m3u8
 
 ====				
 
-#EXTINF:-1 tvg-name="Magna Chanel" group-title="NASIONAL" tvg-logo="https://thumbor.prod.vidiocdn.com/CjN9Xxo8VbEF-D3bK8Xxpiy4c_A=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7230/magna-tv-c3b724.jpg", Magna Channel
+#EXTINF:-1 tvg-name="Magna Chanel.id" group-title="NASIONAL" tvg-logo="https://thumbor.prod.vidiocdn.com/CjN9Xxo8VbEF-D3bK8Xxpiy4c_A=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7230/magna-tv-c3b724.jpg", Magna Channel
 https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-name="BN Chanel.id" group-title="NASIONAL" tvg-logo="https://dl.dropbox.com/s/2rp51aouwircr4f/images%20%281%29.jpeg", BN Channel
+#EXTINF:-1 tvg-name="BN Channel.id" group-title="NASIONAL" tvg-logo="https://dl.dropbox.com/s/2rp51aouwircr4f/images%20%281%29.jpeg", BN Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h39/01.m3u8
 
@@ -764,7 +764,7 @@ https://btv.secureswiftcontent.com/han/btv/btv10005/srtoutput/manifest.m3u8
 
 ===Garuda tv===
 
-#EXTINF:-1 tvg-name="GARUDA TV.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6t-MI3xuy_9qoyHhSD2nFxkLnB6xZT_EbfiwQtLKMQrIo2PTrCrfAL53n&s=10" group-title="NASIONAL",  GARUDA TV
+#EXTINF:-1 tvg-name="Garuda TV.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6t-MI3xuy_9qoyHhSD2nFxkLnB6xZT_EbfiwQtLKMQrIo2PTrCrfAL53n&s=10" group-title="NASIONAL",  GARUDA TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://hgmtv.com:19360/garudatvlivestreaming/720p.m3u8
 
@@ -780,10 +780,10 @@ https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
 
 ===JAWA POS===
 															
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/3/3b/Logo_Jawapos_TV.png/150px-Logo_Jawapos_TV.png" group-title="NASIONAL", Jawa Pos TV
+#EXTINF:-1 tvg-name="Jawa Pos TV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/3/3b/Logo_Jawapos_TV.png/150px-Logo_Jawapos_TV.png" group-title="NASIONAL", Jawa Pos TV
 https://jawapostv.siar.us/jawapostv/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/3/3b/Logo_Jawapos_TV.png/150px-Logo_Jawapos_TV.png" group-title="NEWS", Jawa Pos TV
+#EXTINF:-1 tvg-name="Jawa Pos TV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/3/3b/Logo_Jawapos_TV.png/150px-Logo_Jawapos_TV.png" group-title="NEWS", Jawa Pos TV
 https://jawapostv.siar.us/jawapostv/live/playlist.m3u8
 
 ====
@@ -803,24 +803,19 @@ https://cdn09jtedge.indihometv.com/joss/130/muitv/index.m3u8?c
 
 ====JTV====
 
-#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://www.lyngsat.com/logo/tv/jj/jtv_id.png", JTV REK
+#EXTINF:-1 tvg-name="JTV.id" group-title="NASIONAL" tvg-logo="https://www.lyngsat.com/logo/tv/jj/jtv_id.png", JTV REK
 http://122.248.43.242:1935/JTVSURABAYA/_definst_/myStream/playlist.m3u8
 
-#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://www.lyngsat.com/logo/tv/jj/jtv_id.png", JTV REK 2
+#EXTINF:-1 tvg-name="JTV.id" group-title="NASIONAL" tvg-logo="https://www.lyngsat.com/logo/tv/jj/jtv_id.png", JTV REK 2
 http://ktpremium.xyz:2095/live/QPP76780098/A904599/73627.m3u8
 
 
 ====TV 9====
 
-#EXTINF:-1 tvg-name="TV9" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv-9-nusantara-id.png" group-title="NASIONAL",TV9 Nusantara
+#EXTINF:-1 tvg-name="TV9.id" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv-9-nusantara-id.png" group-title="NASIONAL",TV9 Nusantara
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://5bf7b725107e5.streamlock.net/tv9/tv9/chunklist_w180392404.m3u8
 
-#EXTINF:-1 tvg-name="TV9" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv-9-nusantara-id.png" group-title="NASIONAL",TV9 Nusantara 2
-http://ktpremium.xyz:2095/live/QPP76780098/A904599/73629.m3u8
-
-#EXTINF:-1 tvg-name="TV9" group-title="NASIONAL" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv-9-nusantara-id.png",TV9 Nusantara IDH
-https://cdn09jtedge.indihometv.com/joss/130/tv9/index.m3u8?c
 
 			
 
@@ -850,7 +845,7 @@ https://master.drmstuff.my.id:443/play/Nde5DS_M4vXJWfkBUZU97fkfNEvHb4YD2BaYaP6OK
 
 
 
-#EXTINF:-1 tvg-logo="https://iili.io/JmFZtFs.png" group-title="1. INDONESIA",TVR Parlemen
+#EXTINF:-1 tvg-logo="https://iili.ioJmFZtFs.png" group-title="1. INDONESIA",TVR Parlemen
 http://103.18.181.69:1935/golive/livestream/chunklist_w1350607412.m3u8
 
 

@@ -629,7 +629,7 @@ http://my.bianet.es.vip.hk:80///12/F36591/3f1a2b5c/165072
 
 ====
 
-#EXTINF:-1 tvg-name="TvOne.id" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-10/1ff4e1118db486e897f955e9733419e2.png" group-title="NASIONAL", TV ONE ᴴᴰ¹
+#EXTINF:-1 tvg-name="TV One.id" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-10/1ff4e1118db486e897f955e9733419e2.png" group-title="NASIONAL", TV ONE ᴴᴰ¹
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://op-group1-swiftservehd-1.dens.tv/h/h40/02.m3u8
 
@@ -641,11 +641,11 @@ https://op-group1-swiftservehd-1.dens.tv/h/h40/02.m3u8
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/f3df48faafaf4198a65b9763140fce30/index.mpd
 
 
-#EXTINF:-1 tvg-name="Tv One.id" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-10/1ff4e1118db486e897f955e9733419e2.png" group-title="NASIONAL", TV ONE ᴴᴰ Digital 
+#EXTINF:-1 tvg-name="TV One.id" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-10/1ff4e1118db486e897f955e9733419e2.png" group-title="NASIONAL", TV ONE ᴴᴰ Digital 
 http://hometv.biz.id:80/play/E4BSh-eTMsc07OXwIFkTWGXdI4vNZYJo-u-PitaTDKA
 
 
-#EXTINF:-1 tvg-name="TvONE.id" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-10/1ff4e1118db486e897f955e9733419e2.png" group-title="NEWS", TV ONE ᴴᴰ
+#EXTINF:-1 tvg-name="TV One.id" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-10/1ff4e1118db486e897f955e9733419e2.png" group-title="NEWS", TV ONE ᴴᴰ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://op-group1-swiftservehd-1.dens.tv/h/h40/02.m3u8
 
@@ -688,21 +688,21 @@ http://hometv.biz.id:80/play/E4BSh-eTMsc07OXwIFkTWCFLQyGMBBW5-hbEuvD5BEQ
 
 	====KOMPASTV==== 
 
-#EXTINF:-1 tvg-name="KOMPAS TV.id tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-10/6dca0f82c0415242463eab39b28fd715.png" group-title="NASIONAL", KOMPAS TV ᴴᴰ
+#EXTINF:-1 tvg-name="Kompas TV.id tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-10/6dca0f82c0415242463eab39b28fd715.png" group-title="NASIONAL", KOMPAS TV ᴴᴰ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h234/02.m3u8
 
 
-#EXTINF:-1 tvg-name="KOMPAS TV.id" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-10/6dca0f82c0415242463eab39b28fd715.png" group-title="NASIONAL", KOMPAS TV ᴴᴰ (v+)
+#EXTINF:-1 tvg-name="Kompas TV.id" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-10/6dca0f82c0415242463eab39b28fd715.png" group-title="NASIONAL", KOMPAS TV ᴴᴰ (v+)
 https://cempedak-live-cdn.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
 
-#EXTINF:-1 tvg-name="KOMPAS TV.id" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-10/6dca0f82c0415242463eab39b28fd715.png" group-title="NASIONAL", KOMPAS TV ᴴᴰ DIGITAL 
+#EXTINF:-1 tvg-name="Kompas TV.id" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-10/6dca0f82c0415242463eab39b28fd715.png" group-title="NASIONAL", KOMPAS TV ᴴᴰ DIGITAL 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 http://hometv.biz.id:80/play/E4BSh-eTMsc07OXwIFkTWB9AmTPG8vdZMwDW5WSPyYU
 
 
 
-#EXTINF:-1 tvg-name="KOMPAS TV.id" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-10/6dca0f82c0415242463eab39b28fd715.png" group-title="NEWS", KOMPAS TV ᴴᴰ
+#EXTINF:-1 tvg-name="Kompas TV.id" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-10/6dca0f82c0415242463eab39b28fd715.png" group-title="NEWS", KOMPAS TV ᴴᴰ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h234/02.m3u8
 
@@ -710,7 +710,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h234/02.m3u8
 
 	====METRO TV GROUB====
 
-#EXTINF:-1 tvg-name="METRO TV.id" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/0d6aa1d2981e77a4613a82f086c66e6f.png" group-title="NASIONAL", METRO TV ᴴᴰ¹
+#EXTINF:-1 tvg-name="Metro TV.id" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/0d6aa1d2981e77a4613a82f086c66e6f.png" group-title="NASIONAL", METRO TV ᴴᴰ¹
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 http://op-group1-swiftservehd-1.dens.tv/h/h12/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=Metro_TV
@@ -719,17 +719,17 @@ http://op-group1-swiftservehd-1.dens.tv/h/h12/index.m3u8?app_type=web&amp;userid
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-name="METRO TV.id" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/0d6aa1d2981e77a4613a82f086c66e6f.png" group-title="NASIONAL", METRO TV ᴴᴰ (v+)
+#EXTINF:-1 tvg-name="Metro TV.id" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/0d6aa1d2981e77a4613a82f086c66e6f.png" group-title="NASIONAL", METRO TV ᴴᴰ (v+)
 https://cempedak-live-cdn.mncnow.id/live/eds/Metro-TV2/sa_dash_vmx/Metro-TV2.mpd
 
-#EXTINF:-1 tvg-name="METRO TV.id" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/0d6aa1d2981e77a4613a82f086c66e6f.png" group-title="NASIONAL", METRO TV ᴴᴰ DIGITAL 
+#EXTINF:-1 tvg-name="Metro TV.id" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/0d6aa1d2981e77a4613a82f086c66e6f.png" group-title="NASIONAL", METRO TV ᴴᴰ DIGITAL 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 http://hometv.biz.id:80/play/E4BSh-eTMsc07OXwIFkTWNpiEC50UcA70YO3WYtjgGE
 
 
 
 
-#EXTINF:-1 tvg-name="METRO TV.id" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/0d6aa1d2981e77a4613a82f086c66e6f.png" group-title="NEWS", METRO TV ᴴᴰ
+#EXTINF:-1 tvg-name="Metro TV.id" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/0d6aa1d2981e77a4613a82f086c66e6f.png" group-title="NEWS", METRO TV ᴴᴰ
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 http://op-group1-swiftservehd-1.dens.tv/h/h12/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=Metro_TV
@@ -744,12 +744,12 @@ https://edge.medcom.id/live-edge/smil:mgnch.smil/playlist.m3u8
 
 ====				
 
-#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://thumbor.prod.vidiocdn.com/CjN9Xxo8VbEF-D3bK8Xxpiy4c_A=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7230/magna-tv-c3b724.jpg", Magna Channel
+#EXTINF:-1 tvg-name="Magna Chanel" group-title="NASIONAL" tvg-logo="https://thumbor.prod.vidiocdn.com/CjN9Xxo8VbEF-D3bK8Xxpiy4c_A=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7230/magna-tv-c3b724.jpg", Magna Channel
 https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-name="BN chanel.id" group-title="NASIONAL" tvg-logo="https://dl.dropbox.com/s/2rp51aouwircr4f/images%20%281%29.jpeg", BN Channel
+#EXTINF:-1 tvg-name="BN Chanel.id" group-title="NASIONAL" tvg-logo="https://dl.dropbox.com/s/2rp51aouwircr4f/images%20%281%29.jpeg", BN Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h39/01.m3u8
 
@@ -757,20 +757,20 @@ http://op-group1-swiftservehd-1.dens.tv/h/h39/01.m3u8
 
 ====BTV GRUB===
 
-#EXTINF:-1 tvg-name="Btv.id" group-title="NASIONAL" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_103.png", BTV 
+#EXTINF:-1 tvg-name="BTV.id" group-title="NASIONAL" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_103.png", BTV 
 https://btv.secureswiftcontent.com/han/btv/btv10005/srtoutput/manifest.m3u8
 
 
 ===Garuda tv===
 
-#EXTINF:-1 tvg-id="" tvg-name="GARUDA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6t-MI3xuy_9qoyHhSD2nFxkLnB6xZT_EbfiwQtLKMQrIo2PTrCrfAL53n&s=10" group-title="NASIONAL",  GARUDA TV
+#EXTINF:-1 tvg-name="GARUDA TV.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6t-MI3xuy_9qoyHhSD2nFxkLnB6xZT_EbfiwQtLKMQrIo2PTrCrfAL53n&s=10" group-title="NASIONAL",  GARUDA TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://hgmtv.com:19360/garudatvlivestreaming/720p.m3u8
 
 
 ===NUSANTARA TV===
 
-#EXTINF:-1 tvg-name="Nusantara tv.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Nusantara_TV.png" group-title="NASIONAL", NUSANTARA TV
+#EXTINF:-1 tvg-name="Nusantara TV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Nusantara_TV.png" group-title="NASIONAL", NUSANTARA TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) version/13.0.3 Mobile/15E148 Safari/604.1
 https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
 

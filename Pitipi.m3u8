@@ -5,13 +5,13 @@
 
 =======================================EMTEX GROUP=======================================
 
-#EXTINF:-1 tvg-name="Indosiar.id" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="NASIONAL", INDOSIARᴴᴰ DENS
+#EXTINF:-1 tvg-name="Indosiar.id" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="NASIONAL", INDOSIAR ᴴᴰ DENS
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
 http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 
 
-#EXTINF:-1 tvg-name="Indosiar.id" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="NASIONAL", INDOSIARᴴᴰ Digital
+#EXTINF:-1 tvg-name="Indosiar.id" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="NASIONAL", INDOSIAR ᴴᴰ Digital
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #https://raw.githubusercontent.com/Bpkmuchlas/iptv/refs/heads/main/Tess.m3u8
 #http://hometv.biz.id:80/play/E4BSh-eTMsc07OXwIFkTWC7lggLJzYmRZVwKoRTh2Yw
@@ -22,13 +22,14 @@ http://my.bianet.es.vip.hk:80///12/F36591/3f1a2b5c/162138
 					
 ======
 
-#EXTINF:-1 tvg-name="SCTV.id" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_437.jpg" group-title="NASIONAL", SCTV ᴴᴰ Digital 
-#EXTVLCOPT:http-user-agent=OTT Navigator/1.6.5.5 (Linux;Android 10) ExoPlayerLib/2.13.2
-http://hometv.biz.id:80/play/E4BSh-eTMsc07OXwIFkTWCBxfQ9hj1_nIHb8er5KKww
 
-#EXTINF:-1 tvg-name="SCTV.id" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_437.jpg" group-title="NASIONAL", SCTV ᴴᴰ
+#EXTINF:-1 tvg-name="SCTV.id" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_437.jpg" group-title="NASIONAL", SCTV ᴴᴰ DENS
 #EXTVLCOPT:http-user-agent=OTT Navigator/1.6.5.5 (Linux;Android 10) ExoPlayerLib/2.13.2
 http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
+
+#EXTINF:-1 tvg-name="SCTV.id" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_437.jpg" group-title="NASIONAL", SCTV ᴴᴰ Digital 
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.6.5.5 (Linux;Android 10) ExoPlayerLib/2.13.2
+http://my.bianet.es.vip.hk:80///12/F36591/3f1a2b5c/162141
 
 ====
 

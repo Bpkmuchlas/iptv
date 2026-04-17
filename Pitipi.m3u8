@@ -101,9 +101,12 @@ https://live.vivo200.com/live/sd-1-4379348.m3u8?txSecret=bc6f0cdc7afbb5fe7524e3a
 ====
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png" group-title="LIGA INDONESIA", BRI SUPER LEAGUE LIVE
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+https://tfv43gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.pro2cdnlive.com/live/channel20.m3u8?wsSession=8aa85a1cba60e311c9e48af5-177642739647848&wsIPSercert=b1c3f5e647bbbcc53c44d1d390b50497&wsBindIP=2&wsserid=1168278531255916870
+
+
 #EXTVLCOPT:http-origin=https://ppdd18.plaifrdcikf.shop
 #EXTVLCOPT:http-referrer=https://ppdd18.plaifrdcikf.shop/
-https://bintangstreaming.my.id/connect/index.m3u8?channel=live4&type=m3u8
+#https://bintangstreaming.my.id/connect/index.m3u8?channel=live4&type=m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png" group-title="LIGA INDONESIA", BRI SUPER LEAGUE LIVE²
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36

@@ -1,4 +1,3 @@
 #EXTM3U
-#EXT-X-VERSION:3
-#EXTINF:3.000,
+#EXT-X-STREAM-INF:BANDWIDTH=100000,RESOLUTION=1280x720
 https://tfv93gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.pro2cdnlive.com/live/channel11.m3u8?wsSession=8aa85a1cba60e311c9e48af5-177684766106922&wsIPSercert=e35a01b8b150b10f0ddad67f31e1f350&wsBindIP=2&wsserid=1168278531255916870

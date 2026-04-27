@@ -146,7 +146,8 @@ https://raw.githubusercontent.com/Bpkmuchlas/iptv/refs/heads/main/Huek.m3u8
 
 
 
-====
+====   CHAMPIONS TV 
+
 
 
 #EXTINF:-1 tvg-id="Champions TV 1.id" tvg-logo="https://i.imgur.com/ctwmSHa.png" group-title="SPORTS",ChampionsTV 1 ᴴᴰ
@@ -158,8 +159,10 @@ https://raw.githubusercontent.com/Bpkmuchlas/iptv/refs/heads/main/Huek.m3u8
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://manamedian.serv00.net/1antaubospanel.php/manifest.mpd?id=17938&type=drm
-https://manamedian.serv00.net/1antaubospanel.php/manifest.mpd?id=17938&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://pidio.becek.workers.dev/17938.drm
+https://pidio.becek.workers.dev/17938.mpd
+#https://cukimay.mahkotaiptv.workers.dev/play.mpd?id=17938&type=dash
+#https://aspaltvpasti.top/11111/17938.mpd
 
 
 
@@ -171,8 +174,10 @@ https://manamedian.serv00.net/1antaubospanel.php/manifest.mpd?id=17938&type=dash
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.vidio.com&referer=https://www.vidio.com/&user-agent=Vidio/6.43.9-8ec34856ef (Linux;Android 11) ExoPlayerLib/2.19.1
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://manamedian.serv00.net/1antaubospanel.php/manifest.mpd?id=6686&type=drm 
-https://manamedian.serv00.net/1antaubospanel.php/manifest.mpd?id=6686&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://pidio.becek.workers.dev/6686.drm
+https://pidio.becek.workers.dev/6686.mpd
+#https://cukimay.mahkotaiptv.workers.dev/play.mpd?id=6686&type=dash
+#https://aspaltvpasti.top/11111/6686.mpd
 
 
 #EXTINF:-1 tvg-id="Champions TV 3.id" tvg-logo="https://static.wikia.nocookie.net/dxs/images/1/19/Champions_TV_Logo_2021.png" group-title="SPORTS",ChampionsTV 3 ᴴᴰ
@@ -183,8 +188,11 @@ https://manamedian.serv00.net/1antaubospanel.php/manifest.mpd?id=6686&type=dash
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.vidio.com&referer=https://www.vidio.com/&user-agent=Vidio/6.43.9-8ec34856ef (Linux;Android 11) ExoPlayerLib/2.19.1
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://manamedian.serv00.net/1antaubospanel.php/manifest.mpd?id=19404&type=drm 
-https://manamedian.serv00.net/1antaubospanel.php/manifest.mpd?id=19404&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://pidio.becek.workers.dev/19404.drm
+https://pidio.becek.workers.dev/19404.mpd
+#https://cukimay.mahkotaiptv.workers.dev/play.mpd?id=19404&type=dash
+#https://aspaltvpasti.top/11111/19404.mpd
+
 
 
 #EXTINF:-1 tvg-id="Champions TV 5.id" tvg-logo="https://static.wikia.nocookie.net/dxs/images/1/19/Champions_TV_Logo_2021.png" group-title="SPORTS",ChampionsTV 5 ᴴᴰ
@@ -195,8 +203,10 @@ https://manamedian.serv00.net/1antaubospanel.php/manifest.mpd?id=19404&type=dash
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.vidio.com&referer=https://www.vidio.com/&user-agent=Vidio/6.43.9-8ec34856ef (Linux;Android 11) ExoPlayerLib/2.19.1
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://manamedian.serv00.net/1antaubospanel.php/manifest.mpd?id=9182&type=drm
-https://manamedian.serv00.net/1antaubospanel.php/manifest.mpd?id=9182&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://pidio.becek.workers.dev/9182.drm
+https://pidio.becek.workers.dev/9182.mpd
+#https://cukimay.mahkotaiptv.workers.dev/play.mpd?id=9182&type=dash
+#https://aspaltvpasti.top/11111/9182.mpd
 
 
 #EXTINF:-1 tvg-id="Champions TV 6.id" tvg-logo="https://static.wikia.nocookie.net/dxs/images/1/19/Champions_TV_Logo_2021.png" group-title="SPORTS",ChampionsTV 6 ᴴᴰ
@@ -207,11 +217,14 @@ https://manamedian.serv00.net/1antaubospanel.php/manifest.mpd?id=9182&type=dash
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.vidio.com&referer=https://www.vidio.com/&user-agent=Vidio/6.43.9-8ec34856ef (Linux;Android 11) ExoPlayerLib/2.19.1
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://manamedian.serv00.net/1antaubospanel.php/manifest.mpd?id=9183&type=drm
-https://manamedian.serv00.net/1antaubospanel.php/manifest.mpd?id=9183&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://pidio.becek.workers.dev/9183.drm
+https://pidio.becek.workers.dev/9183.mpd
+#https://cukimay.mahkotaiptv.workers.dev/play.mpd?id=9183&type=dash
+#https://aspaltvpasti.top/11111/9183.mpd
 
 
 ===
+
 
 #EXTINF:-1 tvg-id="Premier League.id" tvg-logo="https://thumbor.prod.vidiocdn.com/mRPZMC2zwT68k6JII0b2tZZHy6c=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9353/premier-league-tv-8d1830.jpg" group-title="SPORTS",Premier League 
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS

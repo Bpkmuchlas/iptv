@@ -8,21 +8,29 @@
 =======================================EMTEX GROUP=======================================
 
 #EXTINF:-1 tvg-name="Indosiar.id" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="NASIONAL", INDOSIAR ᴴᴰ DENS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=81dc256adac12db58a502742de75abb4:236057d85c7b92215485a52cee45b8b6
+https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/19354/res=720p/file/drm/dash/stream.mpd?hdntl=exp=1778513491~acl=%2fstream%2f19354%2fres%3d720p%2ffile%2fdrm%2fdash%2fstream.mpd!%2fstream%2f19354%2ffile%2fdrm%2fdash%2f*%2faac%2f*!%2fstream%2f19354%2ffile%2fdrm%2fdash%2f*%2f*-720p%2f*!%2fstream%2f19354%2ffile%2fdrm%2fdash%2f*%2f*-480p%2f*!%2fstream%2f19354%2ffile%2fdrm%2fdash%2f*%2f*-360p%2f*~id=69578335~data=hdntl~hmac=d32d417a09ddb4d84fde5b750cb46447aedff656632a71ecfdfb8932519a0d12
+
+
+
+
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
-http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
+#http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 
 
 #EXTINF:-1 tvg-name="Indosiar.id" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="NASIONAL", INDOSIAR ᴴᴰ Digital
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://103.148.44.38:8000/play/a05c/index.m3u8
+#http://103.148.44.38:8000/play/a05c/index.m3u8
 #http://103.66.62.83:8000/play/a00o/index.m3u8
 #https://raw.githubusercontent.com/Bpkmuchlas/iptv/refs/heads/main/Tess.m3u8
 #http://hometv.biz.id:80/play/E4BSh-eTMsc07OXwIFkTWC7lggLJzYmRZVwKoRTh2Yw
 #https://master.drmstuff.my.id:443/play/Nde5DS_M4vXJWfkBUZU97VYd-QCNtV_KRR_4aS2oq0o
 #https://zozotv.xyz:443/live/DW3152A/@my8074/4633.ts
 #http://my.bianet.es.vip.hk:80///12/F36591/3f1a2b5c/162138
-
+https://tv.ngebutz.my.id:443/play/55c8cVrvhcFPEgTjgh2C8-1Z2Rp7JvQhncgXXsV4UVM/ts
 
 
 ======
@@ -103,8 +111,9 @@ https://raw.githubusercontent.com/Bpkmuchlas/iptv/refs/heads/main/Tess.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png" group-title="LIGA INDONESIA", BRI SUPER LEAGUE LIVE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6a8b65c83036329e7185b9cd8cbdee29:0eb2beb5633f8e35cafab45af3d21de0
-https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/res=720p/file/drm/dash/stream.mpd?hdntl=exp=1778428524~acl=%2fstream%2f205%2fres%3d720p%2ffile%2fdrm%2fdash%2fstream.mpd!%2fstream%2f205%2ffile%2fdrm%2fdash%2f*%2faac%2f*!%2fstream%2f205%2ffile%2fdrm%2fdash%2f*%2f*-720p%2f*!%2fstream%2f205%2ffile%2fdrm%2fdash%2f*%2f*-480p%2f*!%2fstream%2f205%2ffile%2fdrm%2fdash%2f*%2f*-360p%2f*~id=69578335~data=hdntl~hmac=a8cb27fbe63a323aa1f9821aaf92f1b4dc8a2fe586d6832aae0509ea3cff35ff
+#KODIPROP:inputstream.adaptive.license_key=81dc256adac12db58a502742de75abb4:236057d85c7b92215485a52cee45b8b6
+https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/19354/res=720p/file/drm/dash/stream.mpd?hdntl=exp=1778513491~acl=%2fstream%2f19354%2fres%3d720p%2ffile%2fdrm%2fdash%2fstream.mpd!%2fstream%2f19354%2ffile%2fdrm%2fdash%2f*%2faac%2f*!%2fstream%2f19354%2ffile%2fdrm%2fdash%2f*%2f*-720p%2f*!%2fstream%2f19354%2ffile%2fdrm%2fdash%2f*%2f*-480p%2f*!%2fstream%2f19354%2ffile%2fdrm%2fdash%2f*%2f*-360p%2f*~id=69578335~data=hdntl~hmac=d32d417a09ddb4d84fde5b750cb46447aedff656632a71ecfdfb8932519a0d12
+
 
 
 

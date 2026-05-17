@@ -83,7 +83,12 @@ https://tv.ngebutz.my.id:443/play/55c8cVrvhcFPEgTjgh2C8-1Z2Rp7JvQhncgXXsV4UVM/ts
 #http://mag.king-4k.cc:80/live/C1645263A1D245C/1sFTVBSVCP/1505849.ts
 
 #EXTINF:-1 tvg-name="Indosiar.id" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="LIGA INDONESIA", INDOSIARᴴᴰ Live vidio²
-https://raw.githubusercontent.com/Bpkmuchlas/iptv/refs/heads/main/Tess.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cf6e7a8de12581fd3712110af6def756:bb4707446432edfd6b57f675e6d46218
+https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/19354/res=720p/file/drm/dash/stream.mpd?hdntl=exp=1779032206~acl=%2fstream%2f19354%2fres%3d720p%2ffile%2fdrm%2fdash%2fstream.mpd!%2fstream%2f19354%2ffile%2fdrm%2fdash%2f*%2faac%2f*!%2fstream%2f19354%2ffile%2fdrm%2fdash%2f*%2f*-720p%2f*!%2fstream%2f19354%2ffile%2fdrm%2fdash%2f*%2f*-480p%2f*!%2fstream%2f19354%2ffile%2fdrm%2fdash%2f*%2f*-360p%2f*~id=69578335~data=hdntl~hmac=ad16f39f5889ac69642e3b3624d976f830004ae298eed32edc94f05d6e051aec
+
+
 
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 #http://my.bianet.es.vip.hk:80///12/F36591/3f1a2b5c/162138
@@ -105,8 +110,11 @@ https://raw.githubusercontent.com/Bpkmuchlas/iptv/refs/heads/main/Tess.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png" group-title="LIGA INDONESIA", BRI SUPER LEAGUE LIVE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cf6e7a8de12581fd3712110af6def756:bb4707446432edfd6b57f675e6d46218
-https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/19354/res=720p/file/drm/dash/stream.mpd?hdntl=exp=1779032206~acl=%2fstream%2f19354%2fres%3d720p%2ffile%2fdrm%2fdash%2fstream.mpd!%2fstream%2f19354%2ffile%2fdrm%2fdash%2f*%2faac%2f*!%2fstream%2f19354%2ffile%2fdrm%2fdash%2f*%2f*-720p%2f*!%2fstream%2f19354%2ffile%2fdrm%2fdash%2f*%2f*-480p%2f*!%2fstream%2f19354%2ffile%2fdrm%2fdash%2f*%2f*-360p%2f*~id=69578335~data=hdntl~hmac=ad16f39f5889ac69642e3b3624d976f830004ae298eed32edc94f05d6e051aec
+#KODIPROP:inputstream.adaptive.license_key=bb336636230208f90b2b7a3b5ee742d8:5821acf3d53ba5e59602d840b03896eb
+https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/19353/res=720p/file/drm/dash/stream.mpd?hdntl=exp=1779033333~acl=%2fstream%2f19353%2fres%3d720p%2ffile%2fdrm%2fdash%2fstream.mpd!%2fstream%2f19353%2ffile%2fdrm%2fdash%2f*%2faac%2f*!%2fstream%2f19353%2ffile%2fdrm%2fdash%2f*%2f*-720p%2f*!%2fstream%2f19353%2ffile%2fdrm%2fdash%2f*%2f*-480p%2f*!%2fstream%2f19353%2ffile%2fdrm%2fdash%2f*%2f*-360p%2f*~id=69578335~data=hdntl~hmac=29dfe82614d1825abe3cedb8a13c1bc0a2556d6afccf2a140fc40b1ec7bcbbfc
+
+
+
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png" group-title="LIGA INDONESIA", BRI SUPER LEAGUE LIVE²

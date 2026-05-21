@@ -13,7 +13,7 @@
 http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 
 
-#EXTINF:-1 tvg-name="Indosiar.id" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="NASIONAL", INDOSIAR ᴴᴰ Digital
+#EXTINF:-1 tvg-name="Indosiar.id" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="NASIONAL;SPORTS", INDOSIAR ᴴᴰ Digital
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 http://103.148.44.38:8000/play/a05c/index.m3u8
 #http://103.66.62.83:8000/play/a00o/index.m3u8
@@ -77,12 +77,12 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
 
 ====  VIDIO SPORT INDOSIAR 
 
-#EXTINF:-1 tvg-name="Indosiar.id" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="LIGA INDONESIA", INDOSIARᴴᴰ Live vidio
+#EXTINF:-1 tvg-name="Indosiar.id" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="LIGA INDONESIA;SPORTS", INDOSIARᴴᴰ Live vidio
 https://tv.ngebutz.my.id:443/play/55c8cVrvhcFPEgTjgh2C8-1Z2Rp7JvQhncgXXsV4UVM/ts
 
 #http://mag.king-4k.cc:80/live/C1645263A1D245C/1sFTVBSVCP/1505849.ts
 
-#EXTINF:-1 tvg-name="Indosiar.id" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="LIGA INDONESIA", INDOSIARᴴᴰ Live vidio²
+#EXTINF:-1 tvg-name="Indosiar.id" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="LIGA INDONESIA;SPORTS", INDOSIARᴴᴰ Live vidio²
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cf6e7a8de12581fd3712110af6def756:bb4707446432edfd6b57f675e6d46218
@@ -1392,25 +1392,16 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd?id=2
 ========================================TV VIETNAM========================================
 
 
-#EXTINF:-1 tvg-id="vtv1hd" group-title="🇻🇳VIETNAM" VTV" tvg-logo="https://i.imgur.com/nfkmvAY.png",VTV1 
-http://ovp.sohatv.vn/embed?v=JnTu3cwriGGFMFAv
-
-#EXTINF:-1 tvg-id="vtv1hd" group-title="SPORTS" VTV" tvg-logo="https://i.imgur.com/nfkmvAY.png",VTV1 🇻🇳
+#EXTINF:-1 tvg-id="vtv1hd" group-title="🇻🇳VIETNAM;SPORTS" VTV" tvg-logo="https://i.imgur.com/nfkmvAY.png",VTV1 
 http://ovp.sohatv.vn/embed?v=JnTu3cwriGGFMFAv
 
 
 
-
-#EXTINF:-1 group-title="🇻🇳VIETNAM" VTV" tvg-logo="https://i.imgur.com/BVwi3K3.png",VTV2
-http://ovp.sohatv.vn/embed?v=95CcgLDfdFAzthBB
-
-#EXTINF:-1 group-title="SPORTS" VTV" tvg-logo="https://i.imgur.com/BVwi3K3.png",VTV2 🇻🇳
+#EXTINF:-1 group-title="🇻🇳VIETNAM;SPORTS" VTV" tvg-logo="https://i.imgur.com/BVwi3K3.png",VTV2
 http://ovp.sohatv.vn/embed?v=95CcgLDfdFAzthBB
 
 
-
-
-#EXTINF:-1 tvg-id="vtv3hd" group-title="🇻🇳VIETNAM" VTV" tvg-logo="https://i.imgur.com/7rLCvgS.png",VTV3
+#EXTINF:-1 tvg-id="vtv3hd" group-title="🇻🇳VIETNAM;SPORTS" VTV" tvg-logo="https://i.imgur.com/7rLCvgS.png",VTV3
 http://ovp.sohatv.vn/embed?v=InP0vsnzPXLZ64ip
 
 
@@ -1419,13 +1410,8 @@ http://ovp.sohatv.vn/embed?v=v07FGuYejo7tTlhN
 
 
 
-#EXTINF:-1 group-title="🇻🇳VIETNAM" VTV" tvg-logo="https://i.imgur.com/7qPKNFU.png",VTV5
+#EXTINF:-1 group-title="🇻🇳VIETNAM;SPORTS" VTV" tvg-logo="https://i.imgur.com/7qPKNFU.png",VTV5
 http://ovp.sohatv.vn/embed?v=t4xLCuZzH0zRQMUL
-
-#EXTINF:-1 group-title="SPORTS" VTV" tvg-logo="https://i.imgur.com/7qPKNFU.png",VTV5 🇻🇳
-http://ovp.sohatv.vn/embed?v=t4xLCuZzH0zRQMUL
-
-
 
 
 #EXTINF:-1 group-title="🇻🇳VIETNAM" VTV" tvg-logo="https://i.imgur.com/HCpqatZ.png",VTV Cần Thơ
@@ -1458,14 +1444,9 @@ https://sport.livedoomovies.com:4432/02_THAIPBS_720p/chunklist.m3u8
 
 
 
-#EXTINF:-1 group-title="🇹🇭THAILAND" tvg-id=""tvg-logo="https://www.lyngsat.com/logo/tv/tt/thairath-tv-32-th.png",THAIRATH 32 HD
+#EXTINF:-1 group-title="🇹🇭THAILAND;SPORTS" tvg-id=""tvg-logo="https://www.lyngsat.com/logo/tv/tt/thairath-tv-32-th.png",THAIRATH 32 HD
 http://appdootv2.dootvde.com:1935/live/50023_thairath_hd.stream.smil/playlist.m3u8
 
-
-
-
-#EXTINF:-1 group-title="SPORTS" tvg-id=""tvg-logo="https://www.lyngsat.com/logo/tv/tt/thairath-tv-32-th.png",THAIRATH 32 HD 🇹🇭
-https://lb1-live-mv.v2h-cdn.com/hls/ffaf/thairath/thairath.m3u8
 
 
 
@@ -1482,14 +1463,10 @@ http://175.107.244.52:4457/play/a08g/index.m3u8
 
 
 
-#EXTINF:-1 group-title="🇹🇭THAILAND" tvg-id="PPTV HD.th" tvg-logo="https://iili.io/JyHFkhJ.png", PPTV 36 HD
+#EXTINF:-1 group-title="🇹🇭THAILAND;SPORTS" tvg-id="PPTV HD.th" tvg-logo="https://iili.io/JyHFkhJ.png", PPTV 36 HD
 http://appdootv2.dootvde.com:1935/live/50026_pptv_hd.stream.smil/playlist.m3u8
 
 
-
-
-#EXTINF:-1 group-title="SPORTS" tvg-id="PPTV HD.th" tvg-logo="https://iili.io/JyHFkhJ.png", PPTV 36 HD 🇹🇭
-http://appdootv2.dootvde.com:1935/live/50026_pptv_hd.stream.smil/playlist.m3u8
 
 
 
@@ -1580,15 +1557,25 @@ https://tglmp02.akamaized.net/out/v1/8c503a6966554d439035588f10505eee/manifest.m
 #KODIPROP:inputstream.adaptive.license_key=970d551e974d4a82b45213dc07541131:7586b55fcb4807a5b74764e5564d8095
 https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/260581/assetType/media/assetFileId/5754124/contextType/PLAYBACK/isAltUrl/False/a.mpd
 
-#EXTINF:-1 tvg-id="M LIVE" group-title="🇸🇬SINGAPURA" tvg-logo="https://i.ibb.co.com/dbRJFB3/mlive1.png",M LIVE 1 
+#EXTINF:-1 tvg-id="M LIVE" group-title="🇸🇬SINGAPURA;SPORTS" tvg-logo="https://i.ibb.co.com/dbRJFB3/mlive1.png",M LIVE 1 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 https://tglmp04.akamaized.net/out/v1/898b1cbac7c747e3b1f3deb460e9b67e/manifest.mpd
 
-#EXTINF:-1 tvg-id="M LIVE 2" group-title="🇸🇬SINGAPURA" tvg-logo="https://i.ibb.co.com/9GmV2fF/mlive2.png",M LIVE 2 
+#EXTINF:-1 tvg-id="M LIVE 2" group-title="🇸🇬SINGAPURA;SPORTS" tvg-logo="https://i.ibb.co.com/9GmV2fF/mlive2.png",M LIVE 2 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=60dc08aae52f4c0b806a8e43f24a12c8:30d5b579966d822b215ec51a91d8a271
 https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.mpd
 
+#EXTINF:-1 tvg-id="M LIVE 2" group-title="🇸🇬SINGAPURA;SPORTS" tvg-logo="https://iili.io/FWIr6GV.md.png",M LIVE 5
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=91b9592c819246c68b3b08a1fe08ba22:fa0d80dfd865b34077bae44cd4a0c5e6
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
+https://tglmp04.akamaized.net/out/v1/400fc0702dee453bb33ebcc29466e58a/manifest.mpd
+
+#EXTINF:-1 tvg-id="M LIVE 2" group-title="🇸🇬SINGAPURA;SPORTS" tvg-logo="https://iili.io/FWIZOmP.md.png",M LIVE 5
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d418f733ed224f9bb9c2b1589db22a20:6ed6fe26daa4b926810869ff60254ebb
+https://tglmp02.akamaized.net/out/v1/cc0fc82e76cb4e0093e81695284af443/manifest.mpd
 
 
 
@@ -1600,10 +1587,7 @@ https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.m
 
 
 
-#EXTINF:-1 tvg-id="BTVNews.kh" group-title="🇰🇭KAMBOJA" tvg-logo="https://i.im.ge/2024/12/19/zCppE4.1000103691.png",BTV News (720p)
-https://live-evg2.tv360.metfone.com.kh/livetest/bayontest.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="BTVNews.kh" group-title="SPORTS" tvg-logo="https://i.im.ge/2024/12/19/zCppE4.1000103691.png",BTV 🇰🇭
+#EXTINF:-1 tvg-id="BTVNews.kh" group-title="🇰🇭KAMBOJA;SPORTS" tvg-logo="https://i.im.ge/2024/12/19/zCppE4.1000103691.png",BTV News (720p)
 https://live-evg2.tv360.metfone.com.kh/livetest/bayontest.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="HangMeasHDTV.kh" group-title="🇰🇭KAMBOJA" tvg-logo="https://i.im.ge/2024/12/19/zCpndq.1000103692.jpeg",Hang Meas HDTV (1080p)

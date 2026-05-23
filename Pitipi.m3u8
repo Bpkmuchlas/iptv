@@ -124,6 +124,23 @@ https://tencent-1.vidiostream.com/wmt:eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhY
 https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/19385/res=720p/file/drm/dash/stream.mpd?hdntl=exp=1779033164~acl=%2fstream%2f19385%2fres%3d720p%2ffile%2fdrm%2fdash%2fstream.mpd!%2fstream%2f19385%2ffile%2fdrm%2fdash%2f*%2faac%2f*!%2fstream%2f19385%2ffile%2fdrm%2fdash%2f*%2f*-720p%2f*!%2fstream%2f19385%2ffile%2fdrm%2fdash%2f*%2f*-480p%2f*!%2fstream%2f19385%2ffile%2fdrm%2fdash%2f*%2f*-360p%2f*~id=69578335~data=hdntl~hmac=c9a639fe01dfc6d878a1e94076afc1cbdc5b959762b851570e5568df0d144572
 
 
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png" group-title="LIGA INDONESIA", BRI SUPER LEAGUE LIVE³
+#EXTVLCOPT:http-referrer=https://m.vidio.com/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/index.mpd?id=19385&type=drm
+https://tvratu.my.id/vid/index.mpd?id=19385&type=dash
+
+
+
+
+
+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://lxscore.com
 #EXTVLCOPT:http-referrer=https://lxscore.com/

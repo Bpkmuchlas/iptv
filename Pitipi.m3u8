@@ -7,10 +7,10 @@
 
 =======================================EMTEX GROUP=======================================
 
-#EXTINF:-1 tvg-name="Indosiar.id" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="NASIONAL", INDOSIAR ᴴᴰ DENS
+#EXTINF:-1 tvg-name="Indosiar.id" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="NASIONAL", INDOSIAR ᴴᴰ vd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-https://aspaltvpasti.top/Drmvidbos/Akun121/bosstv.m3u8?id=205
+https://vidx.semar.my.id/biasa2.mpd?id=205&type=dash
 
 
 
@@ -90,17 +90,6 @@ https://tv.ngebutz.my.id:443/play/55c8cVrvhcFPEgTjgh2C8-1Z2Rp7JvQhncgXXsV4UVM/ts
 https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/19354/res=720p/file/drm/dash/stream.mpd?hdntl=exp=1779537321~acl=%2fstream%2f19354%2fres%3d720p%2ffile%2fdrm%2fdash%2fstream.mpd!%2fstream%2f19354%2ffile%2fdrm%2fdash%2f*%2faac%2f*!%2fstream%2f19354%2ffile%2fdrm%2fdash%2f*%2f*-720p%2f*!%2fstream%2f19354%2ffile%2fdrm%2fdash%2f*%2f*-480p%2f*!%2fstream%2f19354%2ffile%2fdrm%2fdash%2f*%2f*-360p%2f*~id=69578335~data=hdntl~hmac=750aef63359c5855d873562bcde67c17ffb99972349a3baf4c5eeac9810324ab
 
 
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
-#http://my.bianet.es.vip.hk:80///12/F36591/3f1a2b5c/162138
-
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://manamedian.serv00.net/antaubospanel.php/manifest.mpd?id=19544&type=drm
-#https://manamedian.serv00.net/antaubospanel.php/manifest.mpd?id=19544&type=dash
-
-
-#https://v4-a0504dae9c72cdb02b00ddedf6df4973.livehwc4.com/stream.titanlivescore.com/live/LXSCORE-100000081.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=e325db32656ed9917940db1845b82d57
-#https://spacetv.my.id/index.mpd?id=19354&type=dash
 
 
 
@@ -109,46 +98,16 @@ https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/19354/res=720p/file/
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png" group-title="LIGA INDONESIA", BRI SUPER LEAGUE LIVE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3306c3bbb9e2bb33dded2230f5013bdd:d4ccb7c4f85b4d08b79bdc2a5e35d1e6
-https://tencent-1.vidiostream.com/wmt:eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhY2Nlc3NUb2tlblNlc3Npb25JZCI6IiIsImV4cCI6MTc4MDA0MjM5NywiZnJhZ2R1cmF0aW9uIjoyMDAwLCJpYXQiOjE3Nzk0Mzc1OTcsIm5iZiI6MTc3OTQzNzU5NywidHh3bXZlciI6MSwid21wYXQiOiJvRit1SlFRPSIsIndtcGF0Zm10IjoiYmFzZTY0Iiwid21wYXRsZW4iOjQwfQ.GGCJZn4x3nG8JcIEF2dehh1evLqoDIjh06s4G7kT6t4/live/tencent-1/68B012860000F2345CE1-p0_sd.m3u8
-
+#
 
 
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png" group-title="LIGA INDONESIA", BRI SUPER LEAGUE LIVE²
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3306c3bbb9e2bb33dded2230f5013bdd:d4ccb7c4f85b4d08b79bdc2a5e35d1e6
-https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/19385/res=720p/file/drm/dash/stream.mpd?hdntl=exp=1779033164~acl=%2fstream%2f19385%2fres%3d720p%2ffile%2fdrm%2fdash%2fstream.mpd!%2fstream%2f19385%2ffile%2fdrm%2fdash%2f*%2faac%2f*!%2fstream%2f19385%2ffile%2fdrm%2fdash%2f*%2f*-720p%2f*!%2fstream%2f19385%2ffile%2fdrm%2fdash%2f*%2f*-480p%2f*!%2fstream%2f19385%2ffile%2fdrm%2fdash%2f*%2f*-360p%2f*~id=69578335~data=hdntl~hmac=c9a639fe01dfc6d878a1e94076afc1cbdc5b959762b851570e5568df0d144572
+#
 
 
-
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png" group-title="LIGA INDONESIA", BRI SUPER LEAGUE LIVE³
-#EXTVLCOPT:http-referrer=https://m.vidio.com/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/index.mpd?id=19385&type=drm
-https://tvratu.my.id/vid/index.mpd?id=19385&type=dash
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png" group-title="LIGA INDONESIA", BRI SUPER LEAGUE LIVE⁴
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6a8b65c83036329e7185b9cd8cbdee29:0eb2beb5633f8e35cafab45af3d21de0
-https://etslive-v3-vidio-co/res=720p/file/drm/dash/stream.mpd?hdntl=exp=1778428524~acl=%2fstream%2f205%2fres%3d720p%2ffile%2fdrm%2fdash%2fstream.mpd!%2fstream%2f205%2ffile%2fdrm%2fdash%2f*%2faac%2f*!%2fstream%2f205%2ffile%2fdrm%2fdash%2f*%2f*-720p%2f*!%2fstream%2f205%2ffile%2fdrm%2fdash%2f*%2f*-480p%2f*!%2fstream%2f205%2ffile%2fdrm%2fdash%2f*%2f*-360p%2f*~id=69578335~data=hdntl~hmac=a8cb27fbe63a323aa1f9821aaf92f1b4dc8a2fe586d6832aae0509ea3cff35ff
-
-
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://lxscore.com
-#EXTVLCOPT:http-referrer=https://lxscore.com/
-#https://bintangstreaming.my.id/connect/index.m3u8?channel=live4&type=m3u8
 
 
 

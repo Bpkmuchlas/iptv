@@ -95,6 +95,17 @@ https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/19354/res=720p/file/
 
 
 
+______AFF_______
+
+EXTINF:-1 tvg-name="" , grup-title="AFF" , VIETNAM VS TIMOR LESTE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ratuvidio.adptv.workers.dev/index.mpd?id=21593&type=drm
+https://ratuvidio.adptv.workers.dev/index.mpd?id=21593&type=dash
+
+
+
 
 
 ==== BRI SPL VIDIO

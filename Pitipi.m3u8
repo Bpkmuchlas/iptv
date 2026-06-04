@@ -1434,6 +1434,16 @@ http://ovp.sohatv.vn/embed?v=1BjkQB7v1EDPCvPc
 
 
 
+
+
+#EXTINF:-1 tvg-id="tv360plus1" group-title="🇻🇳VIETNAM;AFF" tvg-logo="https://sgchill.duckdns.org/logo/tv360plus1.png", TV360+1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://sgchill.duckdns.org/tv/clearkey.php?id=tv360plus1
+https://vpsttt.vietanhtv.top/tv360/tv360.php?id=2554
+
+
 ========================================TV THAILAND========================================
 
 

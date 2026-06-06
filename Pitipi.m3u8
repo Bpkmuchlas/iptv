@@ -109,16 +109,16 @@ https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/19354/res=720p/file/
 _____pipamectsdae_____
 
 
-#EXTINF:-1 tvg-name="FIFA FRIENDLY MATCH.id" tvg-logo="https://thumbor.prod.vidiocdn.com/U_BI-aXEPmoE8SmxIWfhrp427ck=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5115048/f1ee9d.jpg" group-title="Indonesia vs Oman - FIFA Matchday;SPORTS" group-logo="https://thumbor.prod.vidiocdn.com/U_BI-aXEPmoE8SmxIWfhrp427ck=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5115048/f1ee9d.jpg" , Indonesia vs Oman - FIFA Matchday
+EXTINF:-1 tvg-name="FIFA FRIENDLY MATCH.id" tvg-logo="https://thumbor.prod.vidiocdn.com/TjyoJeguC0Vg1Ub2MUDH37-HnXc=/372x211/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/21610/fifa-matchday-8fd621.jpg" group-title="Indonesia vs Oman - FIFA Matchday;SPORTS" group-logo="https://thumbor.prod.vidiocdn.com/U_BI-aXEPmoE8SmxIWfhrp427ck=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5115048/f1ee9d.jpg" , Indonesia vs Mozambique - FIFA Matchday
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/index.mpd?id=21610&type=drm
-https://tvratu.my.id/vid/index.mpd?id=21610&type=dash
+#https://tvratu.my.id/vid/index.mpd?id=21610&type=dash
 
 
-#EXTINF:-1 tvg-name="FIFA FRIENDLY MATCH.id" tvg-logo="https://thumbor.prod.vidiocdn.com/U_BI-aXEPmoE8SmxIWfhrp427ck=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5115048/f1ee9d.jpg" group-title="Indonesia vs Oman - FIFA Matchday;SPORTS" group-logo="https://thumbor.prod.vidiocdn.com/U_BI-aXEPmoE8SmxIWfhrp427ck=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5115048/f1ee9d.jpg" , Indonesia vs Oman - FIFA Matchday ²
-https://tfwh0gr5domt1gc41hctogezdncbzfiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=e4f9f433d905df248d6c1e31-178066447988850&wsIPSercert=c233c0b543be07c3a87449558617f67c&wsBindIP=2&wsserid=1168240905538597368
+EXTINF:-1 tvg-name="FIFA FRIENDLY MATCH.id" tvg-logo="https://thumbor.prod.vidiocdn.com/TjyoJeguC0Vg1Ub2MUDH37-HnXc=/372x211/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/21610/fifa-matchday-8fd621.jpg" group-title="Indonesia vs Oman - FIFA Matchday;SPORTS" group-logo="https://thumbor.prod.vidiocdn.com/U_BI-aXEPmoE8SmxIWfhrp427ck=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5115048/f1ee9d.jpg" , Indonesia vs Mozambique - FIFA Matchday ²
+#https://tfwh0gr5domt1gc41hctogezdncbzfiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=e4f9f433d905df248d6c1e31-178066447988850&wsIPSercert=c233c0b543be07c3a87449558617f67c&wsBindIP=2&wsserid=1168240905538597368
 
 
 

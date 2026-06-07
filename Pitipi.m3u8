@@ -118,6 +118,14 @@ ______AFF_______
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/index.mpd?id=21593&type=drm
+https://tvratu.my.id/vid/index.mpd?id=21593&type=dash
+
+
+#EXTINF:-1 tvg-name="AFF.id" tvg-logo="https://thumbor.prod.vidiocdn.com/Kc3krW-r60mG7_J-0Cao0hSl1dc=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/cover/21593/asean-u19-boys-bank-sumut-championship-cover-e393da.jpg" group-title="AFF" group-logo="https://thumbor.prod.vidiocdn.com/Kc3krW-r60mG7_J-0Cao0hSl1dc=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/cover/21593/asean-u19-boys-bank-sumut-championship-cover-e393da.jpg" , Indonesia vs Vietnam - ASEAN U19 Boys' Bank Sumut Championship ²
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ratuvidio.adptv.workers.dev/index.mpd?id=21593&type=drm
 https://ratuvidio.adptv.workers.dev/index.mpd?id=21593&type=dash
 

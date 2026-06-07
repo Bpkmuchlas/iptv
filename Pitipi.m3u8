@@ -15,7 +15,7 @@ https://vidx.semar.my.id/biasa2.mpd?id=205&type=dash
 
 
 
-#EXTINF:-1 tvg-name="Indosiar.id" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="NASIONAL;SPORTS", INDOSIAR ᴴᴰ Digital
+#EXTINF:-1 tvg-name="Indosiar.id" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/Flag_of_Indonesia.png" group-title="NASIONAL;SPORTS", INDOSIAR ᴴᴰ Digital
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 http://103.148.44.38:8000/play/a05c/index.m3u8
 #http://103.66.62.83:8000/play/a00o/index.m3u8
@@ -30,7 +30,7 @@ http://103.148.44.38:8000/play/a05c/index.m3u8
 ======
 
 
-#EXTINF:-1 tvg-name="SCTV.id" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_437.jpg" group-title="NASIONAL", SCTV ᴴᴰ (V+)
+#EXTINF:-1 tvg-name="SCTV.id" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_437.jpg" group-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/Flag_of_Indonesia.png" group-title="NASIONAL", SCTV ᴴᴰ (V+)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -38,29 +38,29 @@ http://103.148.44.38:8000/play/a05c/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=93d5b9f9d5d14f15b1ba9582f332d1fc:116e4014a662fef4ea5d7671dd5120d8
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/9e9aba7068ca4c7f8a73381bef5f8742/index.mpd
 
-#EXTINF:-1 tvg-name="SCTV.id" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_437.jpg" group-title="NASIONAL", SCTV ᴴᴰ Digital 
+#EXTINF:-1 tvg-name="SCTV.id" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_437.jpg" group-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/Flag_of_Indonesia.png" group-title="NASIONAL", SCTV ᴴᴰ Digital 
 #EXTVLCOPT:http-user-agent=OTT Navigator/1.6.5.5 (Linux;Android 10) ExoPlayerLib/2.13.2
 http://103.148.44.38:8000/play/a05g/index.m3u8
 
 ====
 
-#EXTINF:-1 tvg-id="Sinpo TV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Sin_Po_TV.svg/500px-Sin_Po_TV.svg.png" group-title="NASIONAL" ,SINPO TV
+#EXTINF:-1 tvg-id="Sinpo TV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Sin_Po_TV.svg/500px-Sin_Po_TV.svg.png" group-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/Flag_of_Indonesia.png" group-title="NASIONAL" ,SINPO TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
 https://ratu77.adptv.workers.dev/index.mpd?id=19046&type=dash
 
-#EXTINF:-1 tvg-id="Moji.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1200px-Moji_blue.svg.png" group-title="NASIONAL", MOJI ᴴᴰ 
+#EXTINF:-1 tvg-id="Moji.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1200px-Moji_blue.svg.png" group-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/Flag_of_Indonesia.png" group-title="NASIONAL", MOJI ᴴᴰ 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 http://cdn.nng.cloudns.us/live/m3u8/id/d4ff175b1e2d419.m3u8
 
 
-#EXTINF:-1 tvg-id="Moji.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1200px-Moji_blue.svg.png" group-title="NASIONAL", MOJI ᴴᴰ Digital
+#EXTINF:-1 tvg-id="Moji.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1200px-Moji_blue.svg.png" group-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/Flag_of_Indonesia.png" group-title="NASIONAL", MOJI ᴴᴰ Digital
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 http://103.66.62.83:8000/play/a00i/index.m3u8
 
 
 ===
-#EXTINF:-1 tvg-id="Mentari TV.id" tvg-logo="https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1653049308-.png" group-title="NASIONAL", MENTARI TV (vi)
+#EXTINF:-1 tvg-id="Mentari TV.id" tvg-logo="https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1653049308-.png" group-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/Flag_of_Indonesia.png" group-title="NASIONAL", MENTARI TV (vi)
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
@@ -338,22 +338,22 @@ http://sweet-night-1d1d.worst.workers.dev/?id=18190&type=dash
 
 		========================================MNC GROUP========================================
 
-#EXTINF:-1 tvg-id="MNCTV HD - [Channel 432].id" tvg-name="MNC TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mnc_id_tv.png" group-title="NASIONAL", MNCTV ᴴᴰ (v+)
+#EXTINF:-1 tvg-id="MNCTV HD - [Channel 432].id" tvg-name="MNC TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mnc_id_tv.png" group-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/Flag_of_Indonesia.png" group-title="NASIONAL", MNCTV ᴴᴰ (v+)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c3004565365a42d08e3bde39a516d64e:dbfdc0967cfbbed01dba730c99d9c14a
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/d6b026ad50f14b7f9af5ddd5450007d4/index.mpd
 
-#EXTINF:0 tvg-id="MNCTV HD - [Channel 432].id" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mnc_id_tv.png" group-title="NASIONAL",MNCTV ᴴᴰ (R+)
+#EXTINF:0 tvg-id="MNCTV HD - [Channel 432].id" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mnc_id_tv.png" group-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/Flag_of_Indonesia.png" group-title="NASIONAL",MNCTV ᴴᴰ (R+)
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
 
-#EXTINF:0 tvg-id="MNCTV HD - [Channel 432].id" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mnc_id_tv.png" group-title="NASIONAL",MNCTV ᴴᴰ Digital 
+#EXTINF:0 tvg-id="MNCTV HD - [Channel 432].id" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mnc_id_tv.png" group-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/Flag_of_Indonesia.png" group-title="NASIONAL",MNCTV ᴴᴰ Digital 
 http://hometv.biz.id:80/play/E4BSh-eTMsc07OXwIFkTWFl4DGRbfqjwOn0TLQlU0uM
 
-#EXTINF:0 tvg-id="MNCTV HD - [Channel 432].id" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mnc_id_tv.png" group-title="NASIONAL",MNCTV ᴴᴰ live
+#EXTINF:0 tvg-id="MNCTV HD - [Channel 432].id" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mnc_id_tv.png"  group-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/Flag_of_Indonesia.png" group-title="NASIONAL",MNCTV ᴴᴰ live
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
@@ -361,7 +361,7 @@ https://liveplus.rctiplus.id/mnctv2023.m3u8
 
 =====
 
-#EXTINF:-1 tvg-id="RCTI HD - [Channel 430].id" tvg-name="RCTI" tvg-logo="https://bloguna.com/wp-content/uploads/2025/06/Logo-RCTI-Format-PNG-AI-CDR-PDF-PDF-SVG-768x384.png" group-title="NASIONAL", RCTI ᴴᴰ (v+)
+#EXTINF:-1 tvg-id="RCTI HD - [Channel 430].id" tvg-name="RCTI" tvg-logo="https://bloguna.com/wp-content/uploads/2025/06/Logo-RCTI-Format-PNG-AI-CDR-PDF-PDF-SVG-768x384.png" group-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/Flag_of_Indonesia.png" group-title="NASIONAL", RCTI ᴴᴰ (v+)
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=d386001215594043a8995db796ad9e9c:3404792cb4c804902acdc6ca65c1a298
@@ -370,18 +370,18 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/in
 
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-#EXTINF:0 tvg-id="RCTI HD - [Channel 430].id" tvg-logo="https://bloguna.com/wp-content/uploads/2025/06/Logo-RCTI-Format-PNG-AI-CDR-PDF-PDF-SVG-768x384.png" group-title="NASIONAL",RCTI ᴴᴰ (R+)
+#EXTINF:0 tvg-id="RCTI HD - [Channel 430].id" tvg-logo="https://bloguna.com/wp-content/uploads/2025/06/Logo-RCTI-Format-PNG-AI-CDR-PDF-PDF-SVG-768x384.png" group-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/Flag_of_Indonesia.png" group-title="NASIONAL",RCTI ᴴᴰ (R+)
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
 
 
-#EXTINF:0 tvg-id="RCTI HD - [Channel 430].id" tvg-logo="https://bloguna.com/wp-content/uploads/2025/06/Logo-RCTI-Format-PNG-AI-CDR-PDF-PDF-SVG-768x384.png" group-title="NASIONAL",RCTI ᴴᴰ Digital 
+#EXTINF:0 tvg-id="RCTI HD - [Channel 430].id" tvg-logo="https://bloguna.com/wp-content/uploads/2025/06/Logo-RCTI-Format-PNG-AI-CDR-PDF-PDF-SVG-768x384.png" group-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/Flag_of_Indonesia.png" group-title="NASIONAL",RCTI ᴴᴰ Digital 
 #http://hometv.biz.id:80/play/E4BSh-eTMsc07OXwIFkTWFly_pN8b3Tl2psOaFdpGi0
 http://103.66.62.83:8000/play/a00v/index.m3u8
 #http://my.bianet.es.vip.hk:80///12/F36591/3f1a2b5c/157591
 #http://103.226.232.199:9003/play/a0jg/index.m3u8
 #https://raw.githubusercontent.com/hnnyo/lgi/refs/heads/main/rct.m3u8
 
-#EXTINF:0 tvg-id="RCTI HD - [Channel 430].id" tvg-logo="https://bloguna.com/wp-content/uploads/2025/06/Logo-RCTI-Format-PNG-AI-CDR-PDF-PDF-SVG-768x384.png" group-title="NASIONAL",RCTI ᴴᴰ live
+#EXTINF:0 tvg-id="RCTI HD - [Channel 430].id" tvg-logo="https://bloguna.com/wp-content/uploads/2025/06/Logo-RCTI-Format-PNG-AI-CDR-PDF-PDF-SVG-768x384.png" group-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/Flag_of_Indonesia.png" group-title="NASIONAL",RCTI ᴴᴰ live
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
@@ -395,7 +395,7 @@ https://liveplus.rctiplus.id/rcti2023.m3u8
 
 =====
 
-#EXTINF:-1 tvg-id="GTV HD - [Channel 431].id" tvg-name="GTV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/2498aa1ffc66cf53f77c63b77a787d3a.png" group-title="NASIONAL", GTV ᴴᴰ (v+) 
+#EXTINF:-1 tvg-id="GTV HD - [Channel 431].id" tvg-name="GTV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/2498aa1ffc66cf53f77c63b77a787d3a.png" group-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/Flag_of_Indonesia.png" group-title="NASIONAL", GTV ᴴᴰ (v+) 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -404,16 +404,16 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/b8b9b1d5f80f45649b4a3619291551ab/in
 
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-#EXTINF:0 tvg-id="GTV HD - [Channel 431].id" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/2498aa1ffc66cf53f77c63b77a787d3a.png" group-title="NASIONAL",GTV ᴴᴰ (R+)
+#EXTINF:0 tvg-id="GTV HD - [Channel 431].id" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/2498aa1ffc66cf53f77c63b77a787d3a.png" group-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/Flag_of_Indonesia.png" group-title="NASIONAL",GTV ᴴᴰ (R+)
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
 
 
-#EXTINF:0 tvg-id="GTV HD - [Channel 431].id" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/2498aa1ffc66cf53f77c63b77a787d3a.png" group-title="NASIONAL",GTV ᴴᴰ Digital 
+#EXTINF:0 tvg-id="GTV HD - [Channel 431].id" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/2498aa1ffc66cf53f77c63b77a787d3a.png" group-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/Flag_of_Indonesia.png" group-title="NASIONAL",GTV ᴴᴰ Digital 
 #http://hometv.biz.id:80/play/E4BSh-eTMsc07OXwIFkTWLNJ6yH6etUJ1pNu76Xmhag
 #http://my.bianet.es.vip.hk:80///12/F36591/3f1a2b5c/157578
 https://tv.casindo.org/hls/57/57.m3u8
 
-#EXTINF:0 tvg-id="GTV HD - [Channel 431].id" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/2498aa1ffc66cf53f77c63b77a787d3a.png" group-title="NASIONAL",GTV ᴴᴰ live
+#EXTINF:0 tvg-id="GTV HD - [Channel 431].id" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/2498aa1ffc66cf53f77c63b77a787d3a.png" group-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/Flag_of_Indonesia.png" group-title="NASIONAL",GTV ᴴᴰ live
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
@@ -423,10 +423,10 @@ https://liveplus.rctiplus.id/gtv2023.m3u8
 
 #EXTVLCOPT:http-user-agent=android-R+
 ##EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-#EXTINF:-1 tvg-id="iNews HD - [Channel 433].id" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/773dea02b1aba8f709c668ca2ae43e1c.png" group-title="NASIONAL",INEWS ᴴᴰ (R+)
+#EXTINF:-1 tvg-id="iNews HD - [Channel 433].id" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/773dea02b1aba8f709c668ca2ae43e1c.png" group-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/Flag_of_Indonesia.png" group-title="NASIONAL",INEWS ᴴᴰ (R+)
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
 
-#EXTINF:-1 tvg-id="iNews HD - [Channel 433].id" tvg-name="iNEWS" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/773dea02b1aba8f709c668ca2ae43e1c.png" group-title="NASIONAL", INEWS ᴴᴰ (v+)
+#EXTINF:-1 tvg-id="iNews HD - [Channel 433].id" tvg-name="iNEWS" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/773dea02b1aba8f709c668ca2ae43e1c.png"  group-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/Flag_of_Indonesia.png" group-title="NASIONAL", INEWS ᴴᴰ (v+)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -434,13 +434,13 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
 https://d2tjypxxy769fn.cloudfront.net/out/v1/7b0404cd6a8a4a908123f10774854e46/index.mpd
 
 
-#EXTINF:-1 tvg-id="iNews HD - [Channel 433].id" tvg-name="iNEWS" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/773dea02b1aba8f709c668ca2ae43e1c.png" group-title="NASIONAL", INEWS ᴴᴰ Digital 
+#EXTINF:-1 tvg-id="iNews HD - [Channel 433].id" tvg-name="iNEWS" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/773dea02b1aba8f709c668ca2ae43e1c.png" group-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/Flag_of_Indonesia.png" group-title="NASIONAL", INEWS ᴴᴰ Digital 
 http://hometv.biz.id:80/play/E4BSh-eTMsc07OXwIFkTWD-z3ZqCYULjkfjEXaAi6LM
 
 
 #EXTVLCOPT:http-user-agent=android-R+
 ##EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-#EXTINF:-1 tvg-id="iNews HD - [Channel 433].id" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/773dea02b1aba8f709c668ca2ae43e1c.png" group-title="NASIONAL",INEWS ᴴᴰ live
+#EXTINF:-1 tvg-id="iNews HD - [Channel 433].id" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/773dea02b1aba8f709c668ca2ae43e1c.png" group-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/Flag_of_Indonesia.png" group-title="NASIONAL",INEWS ᴴᴰ live
 https://liveplus.rctiplus.id/inews2023.m3u8
 
 
@@ -459,11 +459,11 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/7b0404cd6a8a4a908123f10774854e46/in
 
 
 
-#EXTINF:-1 tvg-id="MDTV.id" tvg-name="MDTV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_116.png" group-title="NASIONAL", MDTV ᴴᴰ Dens
+#EXTINF:-1 tvg-id="MDTV.id" tvg-name="MDTV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_116.png" group-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/Flag_of_Indonesia.png" group-title="NASIONAL", MDTV ᴴᴰ Dens
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://op-group1-swiftservesd-1.dens.tv/h/h06/01.m3u8
 
-#EXTINF:-1 tvg-id="MDTV.id" tvg-name="MDTV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_116.png" group-title="NASIONAL", MDTV ᴴᴰ²
+#EXTINF:-1 tvg-id="MDTV.id" tvg-name="MDTV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_116.png" group-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/Flag_of_Indonesia.png" group-title="NASIONAL", MDTV ᴴᴰ²
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://wahyu1ptv.pages.dev/MDTV-HD.m3u8
 

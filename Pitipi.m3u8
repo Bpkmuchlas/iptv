@@ -964,7 +964,7 @@ https://cdn09jtedge.indihometv.com/joss/134/daaitv/index.m3u8?c
 ========================================TV PEMERINTAH========================================
 
 
-#EXTINF:-1 tvg-name="TVRI.id" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/fa116bfa87b7355a9f73a63f8070843c.png" group-title="NASIONAL", TVRI ᴴᴰ
+#EXTINF:-1 tvg-name="TVRI.id" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/fa116bfa87b7355a9f73a63f8070843c.png" group-title="NASIONAL;WORLD CUP²⁶™", TVRI ᴴᴰ
 https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
 
 
@@ -981,7 +981,7 @@ http://103.18.181.69:1935/golive/livestream/chunklist_w1350607412.m3u8
 
 ===SPORT TVRI
 
-#EXTINF:-1 tvg-name="TVRI Sport.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/58/TVRI_Sport_2017.png" group-title="SPORTS", TVRI SPORT ᴴᴰ 
+#EXTINF:-1 tvg-name="TVRI Sport.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/58/TVRI_Sport_2017.png" group-title="SPORTS;WORLD CUP²⁶™", TVRI SPORT ᴴᴰ 
 https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 
 
@@ -1452,21 +1452,21 @@ http://ovp.sohatv.vn/embed?v=1BjkQB7v1EDPCvPc
 
 
 
-#EXTINF:-1 tvg-id="tv360plus1" group-title="🇻🇳VIETNAM" tvg-logo="https://sgchill.duckdns.org/logo/tv360plus1.png", TV360+1 🇻🇳
+#EXTINF:-1 tvg-id="tv360plus1" group-title="🇻🇳VIETNAM;WORLD CUP²⁶™" tvg-logo="https://sgchill.duckdns.org/logo/tv360plus1.png", TV360+1 🇻🇳
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://sgchill.duckdns.org/tv/clearkey.php?id=tv360plus1
 https://vpsttt.vietanhtv.top/tv360/tv360.php?id=2554
 
-#EXTINF:-1 tvg-id="tv360plus2" group-title="🇻🇳VIETNAM" tvg-logo="https://sgchill.duckdns.org/logo/tv360plus2.png", TV360+2 🇻🇳
+#EXTINF:-1 tvg-id="tv360plus2" group-title="🇻🇳VIETNAM;WORLD CUP²⁶™" tvg-logo="https://sgchill.duckdns.org/logo/tv360plus2.png", TV360+2 🇻🇳
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://sgchill.duckdns.org/tv/clearkey.php?id=tv360plus2
 https://vpsttt.vietanhtv.top/tv360/tv360.php?id=1
 
-#EXTINF:-1 tvg-id="tv360plus3" group-title="🇻🇳VIETNAM" tvg-logo="https://sgchill.duckdns.org/logo/tv360plus3.png", TV360+3 🇻🇳
+#EXTINF:-1 tvg-id="tv360plus3" group-title="🇻🇳VIETNAM;WORLD CUP²⁶™" tvg-logo="https://sgchill.duckdns.org/logo/tv360plus3.png", TV360+3 🇻🇳
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1649,22 +1649,22 @@ https://tglmp02.akamaized.net/out/v1/8c503a6966554d439035588f10505eee/manifest.m
 #KODIPROP:inputstream.adaptive.license_key=970d551e974d4a82b45213dc07541131:7586b55fcb4807a5b74764e5564d8095
 https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/260581/assetType/media/assetFileId/5754124/contextType/PLAYBACK/isAltUrl/False/a.mpd
 
-#EXTINF:-1 tvg-id="M LIVE" group-title="🇸🇬SINGAPURA;SPORTS" tvg-logo="https://i.ibb.co.com/dbRJFB3/mlive1.png",M LIVE 1 
+#EXTINF:-1 tvg-id="M LIVE" group-title="🇸🇬SINGAPURA;SPORTS;WORLD CUP²⁶™" tvg-logo="https://i.ibb.co.com/dbRJFB3/mlive1.png",M LIVE 1 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 https://tglmp04.akamaized.net/out/v1/898b1cbac7c747e3b1f3deb460e9b67e/manifest.mpd
 
-#EXTINF:-1 tvg-id="M LIVE 2" group-title="🇸🇬SINGAPURA;SPORTS" tvg-logo="https://i.ibb.co.com/9GmV2fF/mlive2.png",M LIVE 2 
+#EXTINF:-1 tvg-id="M LIVE 2" group-title="🇸🇬SINGAPURA;SPORTS;WORLD CUP²⁶™" tvg-logo="https://i.ibb.co.com/9GmV2fF/mlive2.png",M LIVE 2 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=60dc08aae52f4c0b806a8e43f24a12c8:30d5b579966d822b215ec51a91d8a271
 https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.mpd
 
-#EXTINF:-1 tvg-id="M LIVE 2" group-title="🇸🇬SINGAPURA;SPORTS" tvg-logo="https://iili.io/FWIr6GV.md.png",M LIVE 5
+#EXTINF:-1 tvg-id="M LIVE 2" group-title="🇸🇬SINGAPURA;SPORTS;WORLD CUP²⁶™" tvg-logo="https://iili.io/FWIr6GV.md.png",M LIVE 5
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=91b9592c819246c68b3b08a1fe08ba22:fa0d80dfd865b34077bae44cd4a0c5e6
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
 https://tglmp04.akamaized.net/out/v1/400fc0702dee453bb33ebcc29466e58a/manifest.mpd
 
-#EXTINF:-1 tvg-id="M LIVE 2" group-title="🇸🇬SINGAPURA;SPORTS" tvg-logo="https://iili.io/FWIZOmP.md.png",M LIVE 5
+#EXTINF:-1 tvg-id="M LIVE 2" group-title="🇸🇬SINGAPURA;SPORTS;WORLD CUP²⁶™" tvg-logo="https://iili.io/FWIZOmP.md.png",M LIVE 5
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d418f733ed224f9bb9c2b1589db22a20:6ed6fe26daa4b926810869ff60254ebb
 https://tglmp02.akamaized.net/out/v1/cc0fc82e76cb4e0093e81695284af443/manifest.mpd

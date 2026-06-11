@@ -984,6 +984,8 @@ http://103.18.181.69:1935/golive/livestream/chunklist_w1350607412.m3u8
 #EXTINF:-1 tvg-name="TVRI Sport.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/58/TVRI_Sport_2017.png" group-title="SPORTS;WORLD CUP²⁶™", TVRI SPORT ᴴᴰ 
 https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 
+#EXTINF:-1 tvg-name="TVRI Sport.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/58/TVRI_Sport_2017.png" group-title="SPORTS;WORLD CUP²⁶™", TVRI SPORT ᴴᴰ DIGITAL
+http://103.148.44.38:8000/play/a05u/index.m3u8
 
 ========
 

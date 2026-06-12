@@ -972,7 +972,7 @@ https://cdn09jtedge.indihometv.com/joss/134/daaitv/index.m3u8?c
 ========================================TV PEMERINTAH========================================
 
 
-#EXTINF:-1 tvg-name="TVRI.id" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/fa116bfa87b7355a9f73a63f8070843c.png" group-title="NASIONAL;WORLD CUP²⁶™", TVRI ᴴᴰ
+#EXTINF:-1 tvg-name="TVRI.id" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/fa116bfa87b7355a9f73a63f8070843c.png" group-title="NASIONAL", TVRI ᴴᴰ
 https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
 
 
@@ -989,7 +989,7 @@ http://103.18.181.69:1935/golive/livestream/chunklist_w1350607412.m3u8
 
 ===SPORT TVRI
 
-#EXTINF:-1 tvg-name="TVRI Sport.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/58/TVRI_Sport_2017.png" group-title="SPORTS;WORLD CUP²⁶™", TVRI SPORT ᴴᴰ 
+#EXTINF:-1 tvg-name="TVRI Sport.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/58/TVRI_Sport_2017.png" group-title="SPORTS", TVRI SPORT ᴴᴰ 
 https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 
 #EXTINF:-1 tvg-name="TVRI Sport.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/58/TVRI_Sport_2017.png" group-title="SPORTS;WORLD CUP²⁶™", TVRI SPORT ᴴᴰ DIGITAL
@@ -1424,11 +1424,11 @@ http://ovp.sohatv.vn/embed?v=JnTu3cwriGGFMFAv
 
 
 
-#EXTINF:-1 group-title="🇻🇳VIETNAM;SPORTS" VTV" tvg-logo="https://i.imgur.com/BVwi3K3.png",VTV2
+#EXTINF:-1 group-title="🇻🇳VIETNAM;SPORTS;WORLD CUP²⁶™" VTV" tvg-logo="https://i.imgur.com/BVwi3K3.png",VTV2
 http://ovp.sohatv.vn/embed?v=95CcgLDfdFAzthBB
 
 
-#EXTINF:-1 tvg-id="vtv3hd" group-title="🇻🇳VIETNAM;SPORTS" VTV" tvg-logo="https://i.imgur.com/7rLCvgS.png",VTV3
+#EXTINF:-1 tvg-id="vtv3hd" group-title="🇻🇳VIETNAM;SPORTS;WORLD CUP²⁶™" VTV" tvg-logo="https://i.imgur.com/7rLCvgS.png",VTV3
 http://ovp.sohatv.vn/embed?v=InP0vsnzPXLZ64ip
 
 
@@ -1437,7 +1437,7 @@ http://ovp.sohatv.vn/embed?v=v07FGuYejo7tTlhN
 
 
 
-#EXTINF:-1 group-title="🇻🇳VIETNAM;SPORTS" VTV" tvg-logo="https://i.imgur.com/7qPKNFU.png",VTV5
+#EXTINF:-1 group-title="🇻🇳VIETNAM;SPORTS;WORLD CUP²⁶™" VTV" tvg-logo="https://i.imgur.com/7qPKNFU.png",VTV5
 http://ovp.sohatv.vn/embed?v=t4xLCuZzH0zRQMUL
 
 
@@ -1746,11 +1746,11 @@ http://live.happywatch99.com/livehd14/77bbe9df6a93cf229cd40f1400af00fa.sdp/playl
 EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c0/RTB_Sukmaindera.png/revision/latest/scale-to-width-down/250?cb=20190121072745.jpg" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/refs/heads/PEJAL/logo%20ejal%20tv%20baru%20149x70.png"  group-title="🇧🇳BRUNEI",RTB (Brunei)
 https://d1211whpimeups.cloudfront.net/smil:rtb1/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://rtb-images.glueapi.io/300x0//////live/GoLiveNew.png" group-title="🇧🇳BRUNEI", GO Live (Brunei)
+#EXTINF:-1 tvg-logo="https://rtb-images.glueapi.io/300x0//////live/GoLiveNew.png" group-title="🇧🇳BRUNEI;WORLD CUP²⁶™", GO Live (Brunei)
 #EXTVLCOPT:network-caching=1000 
 https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://rtb-images.glueapi.io/300x0/live/rtb-aneka-title.png" group-title="🇧🇳BRUNEI", Aneka (Brunei)
+#EXTINF:-1 tvg-logo="https://rtb-images.glueapi.io/300x0/live/rtb-aneka-title.png" group-title="🇧🇳BRUNEI;WORLD CUP²⁶™", Aneka (Brunei)
 https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist_b1120000_sleng.m3u8
 
 

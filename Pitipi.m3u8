@@ -115,16 +115,15 @@ EXTINF:-1 tvg-name="FIFA FRIENDLY MATCH.id" tvg-logo="https://thumbor.prod.vidio
 
 ______AFF_______
 
-#EXTINF:-1 tvg-name="AFF.id" tvg-logo="https://thumbor.prod.vidiocdn.com/Kc3krW-r60mG7_J-0Cao0hSl1dc=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/cover/21593/asean-u19-boys-bank-sumut-championship-cover-e393da.jpg" group-title="AFF" group-logo="https://thumbor.prod.vidiocdn.com/Kc3krW-r60mG7_J-0Cao0hSl1dc=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/cover/21593/asean-u19-boys-bank-sumut-championship-cover-e393da.jpg" , Indonesia vs Cambodia- ASEAN U19 Boys' Bank Sumut Championship
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/index.mpd?id=21633&type=drm
-https://tvratu.my.id/vid/index.mpd?id=21633&type=dash
+#EXTINF:-1 tvg-name="AFF.id" tvg-logo="https://thumbor.prod.vidiocdn.com/Kc3krW-r60mG7_J-0Cao0hSl1dc=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/cover/21593/asean-u19-boys-bank-sumut-championship-cover-e393da.jpg" group-title="AFF" group-logo="https://thumbor.prod.vidiocdn.com/Kc3krW-r60mG7_J-0Cao0hSl1dc=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/cover/21593/asean-u19-boys-bank-sumut-championship-cover-e393da.jpg" , Thailand vs Australia - ASEAN U19 Boys' Bank Sumut Championship
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1e5fe8071c08c31412d862399259f61b:d5db30367095916cd1f2c169130d9eb0
+https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/21633/res=720p/file/drm/dash/stream.mpd?hdntl=exp=1781357933~acl=%2fstream%2f21633%2fres%3d720p%2ffile%2fdrm%2fdash%2fstream.mpd!%2fstream%2f21633%2ffile%2fdrm%2fdash%2f*%2faac%2f*!%2fstream%2f21633%2ffile%2fdrm%2fdash%2f*%2f*-720p%2f*!%2fstream%2f21633%2ffile%2fdrm%2fdash%2f*%2f*-480p%2f*!%2fstream%2f21633%2ffile%2fdrm%2fdash%2f*%2f*-360p%2f*~id=69578335~data=hdntl~hmac=86fdecb08b680c2780ea65d24a831f6dca24fb568dea0af842064a3ed8d5e3d6
 
 
 
-#EXTINF:-1 tvg-name="AFF.id" tvg-logo="https://thumbor.prod.vidiocdn.com/Kc3krW-r60mG7_J-0Cao0hSl1dc=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/cover/21593/asean-u19-boys-bank-sumut-championship-cover-e393da.jpg" group-title="AFF" group-logo="https://thumbor.prod.vidiocdn.com/Kc3krW-r60mG7_J-0Cao0hSl1dc=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/cover/21593/asean-u19-boys-bank-sumut-championship-cover-e393da.jpg" , Indonesia vs Cambodia - ASEAN U19 Boys' Bank Sumut Championship ²
+#EXTINF:-1 tvg-name="AFF.id" tvg-logo="https://thumbor.prod.vidiocdn.com/Kc3krW-r60mG7_J-0Cao0hSl1dc=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/cover/21593/asean-u19-boys-bank-sumut-championship-cover-e393da.jpg" group-title="AFF" group-logo="https://thumbor.prod.vidiocdn.com/Kc3krW-r60mG7_J-0Cao0hSl1dc=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/cover/21593/asean-u19-boys-bank-sumut-championship-cover-e393da.jpg" , Thailand vs Australia - ASEAN U19 Boys' Bank Sumut Championship ²
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha

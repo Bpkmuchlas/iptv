@@ -982,6 +982,10 @@ https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 #EXTINF:-1 tvg-name="TVRI Sport.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/58/TVRI_Sport_2017.png" group-title="SPORTS;WORLD CUP²⁶™", TVRI SPORT ᴴᴰ DIGITAL
 http://103.148.44.38:8000/play/a05u/index.m3u8
 
+#EXTINF:-1 tvg-name="TVRI Sport.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/58/TVRI_Sport_2017.png" group-title="SPORTS;WORLD CUP²⁶™", TVRI SPORT ᴴᴰ (live)
+https://myfavorid.web.id/proxy/tvri/live/eds/SportHD/hls/SportHD-avc1_900000%3D10002-mp4a_96000%3D20002.m3u8
+
+
 ========
 
 

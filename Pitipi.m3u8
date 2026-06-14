@@ -1355,8 +1355,10 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd?id=4
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd?id=4
 
 #EXTINF:-1 tvg-id="Sukan RTM" tvg-logo="https://iili.io/JmoaBTB.png" group-title="WORLD CUP²⁶™",SUKAN RTM 🇲🇾
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1 
 https://bintangstreaming.my.id/1kds/kds_tes.php/.m3u8?id=rtm-sports-hd
+
+
 ===
 
 #EXTINF:-1 tvg-id="146.astro" tvg-logo="https://iili.io/JmoScEg.png" group-title="🇲🇾MALAYSIA",Okey

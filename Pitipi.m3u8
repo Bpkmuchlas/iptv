@@ -364,10 +364,11 @@ https://liveplus.rctiplus.id/mnctv2023.m3u8
 =====
 
 #EXTINF:-1 tvg-id="RCTI HD - [Channel 430].id" tvg-name="RCTI" tvg-logo="https://bloguna.com/wp-content/uploads/2025/06/Logo-RCTI-Format-PNG-AI-CDR-PDF-PDF-SVG-768x384.png" group-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/Flag_of_Indonesia.png" group-title="NASIONAL", RCTI ᴴᴰ (v+)
-#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
+#EXTVLCOPT:http-user-agent=MPF_Players/537.36
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=d386001215594043a8995db796ad9e9c:3404792cb4c804902acdc6ca65c1a298
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/index.mpd
+
 
 
 #EXTVLCOPT:http-user-agent=android-R+

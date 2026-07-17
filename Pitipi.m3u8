@@ -18,7 +18,7 @@ https://nextgenz.my.id/event/pidio/play.mpd?id=205&type=dash
 
 
 #EXTINF:-1 tvg-name="Indosiar.id" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/Flag_of_Indonesia.png" group-title="NASIONAL;SPORTS", INDOSIAR ᴴᴰ Digital
-EXTVLCOPT:http-user-agent=MPF_Players/537.36
+#EXTVLCOPT:http-user-agent=MPF_Players/537.36
 http://157.15.187.3:25092/hls/56/56.m3u8
 
 

@@ -988,7 +988,9 @@ https://cdnbal1.indihometv.com/atm/DASH/TVRI/TVRI-avc1_2500000=7-327770703000000
 
 
 #EXTINF:-1 tvg-name="TVRI.id" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/fa116bfa87b7355a9f73a63f8070843c.png" group-title="NASIONAL;WORLD CUP²⁶™", TVRI ᴴᴰ Digital 
-http://103.148.44.38:8000/play/a03t/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://157.15.187.3:25092/hls/49/49.m3u8
+
 
 
 #EXTINF:-1 tvg-name="TVRI.id" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/fa116bfa87b7355a9f73a63f8070843c.png" group-title="NASIONAL;WORLD CUP²⁶™", TVRI ᴴᴰ Max Stream
@@ -1010,7 +1012,9 @@ https://tencent-css.byteplaycdn.com/2ea1e2a14c429666b5a60dc0a97661bc/6A3FE307/Co
 https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 
 #EXTINF:-1 tvg-name="TVRI Sport.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/58/TVRI_Sport_2017.png" group-title="SPORTS;WORLD CUP²⁶™", TVRI SPORT ᴴᴰ DIGITAL
-http://103.148.44.38:8000/play/a05u/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://157.15.187.3:25092/hls/63/63.m3u8
+
 
 #EXTINF:-1 tvg-name="TVRI Sport.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/58/TVRI_Sport_2017.png" group-title="SPORTS;WORLD CUP²⁶™", TVRI SPORT ᴴᴰ Max stream
 EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
@@ -1019,6 +1023,15 @@ EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/all_clearkey/clearkey.json
 https://tencent-css.byteplaycdn.com/9aa1c10019b86160ae7c518290d75953/6A3FE2B2/Content/DASH_ENC2/Live/channel(tselwc2)/master.mpd
+
+
+
+
+
+
+
+
+
 
 
 

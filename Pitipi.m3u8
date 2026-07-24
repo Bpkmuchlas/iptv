@@ -9,12 +9,10 @@
 =======================================EMTEX GROUP=======================================
 
 #EXTINF:-1 tvg-name="Indosiar.id" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/Flag_of_Indonesia.png" group-title="NASIONAL", INDOSIAR ᴴᴰ (v+)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.
-#EXTVLCOPT:http-referrer=https://m.visionplus.id
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ab1fe99e4e4f4cbe95930b3154c1fb19:c7f529deccbf6709e3e65c61c8d1344f
 https://d2tjypxxy769fn.cloudfront.net/out/v1/e930be336fed49e6b26a7554e113f7a4/index.mpd
-
 
 
 
@@ -423,11 +421,17 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/b8b9b1d5f80f45649b4a3619291551ab/in
 #EXTINF:0 tvg-id="GTV HD - [Channel 431].id" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/2498aa1ffc66cf53f77c63b77a787d3a.png" group-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/Flag_of_Indonesia.png" group-title="NASIONAL",GTV ᴴᴰ (R+)
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
 
-
+--
 #EXTINF:0 tvg-id="GTV HD - [Channel 431].id" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/2498aa1ffc66cf53f77c63b77a787d3a.png" group-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/Flag_of_Indonesia.png" group-title="NASIONAL",GTV ᴴᴰ Digital 
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+http://mag.king-4k.cc:80/live/C1645263A1D245C/1sFTVBSVCP/1505835.ts
+
 #http://hometv.biz.id:80/play/E4BSh-eTMsc07OXwIFkTWLNJ6yH6etUJ1pNu76Xmhag
 #http://my.bianet.es.vip.hk:80///12/F36591/3f1a2b5c/157578
-https://tv.casindo.org/hls/57/57.m3u8
+#https://tv.casindo.org/hls/57/57.m3u8
+
+---
+
 
 #EXTINF:0 tvg-id="GTV HD - [Channel 431].id" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/2498aa1ffc66cf53f77c63b77a787d3a.png" group-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/Flag_of_Indonesia.png" group-title="NASIONAL",GTV ᴴᴰ live
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -563,12 +567,11 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/in
 =
  
 #EXTINF:-1 tvg-id="Sportstars 2 HD - [Channel 422].id" tvg-name="Sportstars 2 HD" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_98.png" group-title="SPORTS", SPORTSTARS 2 ᴴᴰ
-#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=911e72adf36946afbdbb4f80782a8394:08aec548a851ba64b7172ae7f05cb91c
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
-https://fta3-cdn-flr.visionplus.id/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
 
 
 

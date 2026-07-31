@@ -373,6 +373,32 @@ https://liveplus.rctiplus.id/mnctv2023.m3u8
 
 =====
 
+
+
+
+
+
+#EXTINF:-1 group-title="TIMNAS" tvg-id="GTV+" tvg-logo="https://cdn25.metrotvnews.com/dynamic/content/2026/01/15/b2lC6E5o/a_69685d7c55d2f.jpg?w=1024",GTV+
+#
+
+#EXTINF:-1 group-title="TIMNAS" tvg-id="GTV+" tvg-logo="https://cdn25.metrotvnews.com/dynamic/content/2026/01/15/b2lC6E5o/a_69685d7c55d2f.jpg?w=1024",INEWS+
+#
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-id="RCTI HD - [Channel 430].id" tvg-name="RCTI" tvg-logo="https://bloguna.com/wp-content/uploads/2025/06/Logo-RCTI-Format-PNG-AI-CDR-PDF-PDF-SVG-768x384.png" group-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/Flag_of_Indonesia.png" group-title="NASIONAL", RCTI ᴴᴰ (v+)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -402,7 +428,8 @@ http://103.66.62.83:8000/play/a00v/index.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:contentlookup=false
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://rpluz.ben45mcc.workers.dev/index.m3u8?ch=rcti
+https://bintangstreaming.my.id/000/rcti.php/.m3u8?id=rcti
+
 
 
 #https://liveplus.rctiplus.id/RTMP-IN-avc1_2500000=7-mp4a_128000=2.m3u8
@@ -445,7 +472,7 @@ http://mag.king-4k.cc:80/live/C1645263A1D245C/1sFTVBSVCP/1505835.ts
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:contentlookup=false
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://rpluz.ben45mcc.workers.dev/index.m3u8?ch=gtv
+https://bintangstreaming.my.id/000/rcti.php/.m3u8?id=gtv
 
 =====
 
@@ -473,8 +500,7 @@ http://hometv.biz.id:80/play/E4BSh-eTMsc07OXwIFkTWD-z3ZqCYULjkfjEXaAi6LM
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:contentlookup=false
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://rpluz.ben45mcc.workers.dev/index.m3u8?ch=inews
-
+https://bintangstreaming.my.id/000/rcti.php/.m3u8?id=inewstv
 
 
 #EXTVLCOPT:http-user-agent=android-R+

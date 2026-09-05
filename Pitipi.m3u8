@@ -130,12 +130,10 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
 ====  VIDIO SPORT INDOSIAR 
 
 #EXTINF:-1 tvg-name="Indosiar.id" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="LIGA INDONESIA;SPORTS", INDOSIARᴴᴰ Live vidio
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=205&type=drm
-https://nextgenz.my.id/event/pidio/play.mpd?id=205&type=dash
-
-
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=016752bac004de54b7f7c6a5d037f4ec:c9c06ffb6f160e38305fa87ded56b761
+https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/22207/res=1080p/file/drm/dash/stream.mpd?hdntl=exp=1788611580~acl=%2fstream%2f22207%2fres%3d1080p%2ffile%2fdrm%2fdash%2fstream.mpd!%2fstream%2f22207%2ffile%2fdrm%2fdash%2f*%2faac%2f*!%2fstream%2f22207%2ffile%2fdrm%2fdash%2f*%2f*-1080p%2f*!%2fstream%2f22207%2ffile%2fdrm%2fdash%2f*%2f*-720p%2f*!%2fstream%2f22207%2ffile%2fdrm%2fdash%2f*%2f*-480p%2f*!%2fstream%2f22207%2ffile%2fdrm%2fdash%2f*%2f*-360p%2f*~id=69578335~data=hdntl~hmac=b107758b03bb88d9f2d3a27fb6a51df8beccd69a7c06200d121539e3a97e5c8e
 
 
 #http://mag.king-4k.cc:80/live/C1645263A1D245C/1sFTVBSVCP/1505849.ts
@@ -173,7 +171,9 @@ ______AFF_______
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png" group-title="LIGA INDONESIA", BRI SUPER LEAGUE LIVE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
-#
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=016752bac004de54b7f7c6a5d037f4ec:c9c06ffb6f160e38305fa87ded56b761
+https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/22207/res=1080p/file/drm/dash/stream.mpd?hdntl=exp=1788611580~acl=%2fstream%2f22207%2fres%3d1080p%2ffile%2fdrm%2fdash%2fstream.mpd!%2fstream%2f22207%2ffile%2fdrm%2fdash%2f*%2faac%2f*!%2fstream%2f22207%2ffile%2fdrm%2fdash%2f*%2f*-1080p%2f*!%2fstream%2f22207%2ffile%2fdrm%2fdash%2f*%2f*-720p%2f*!%2fstream%2f22207%2ffile%2fdrm%2fdash%2f*%2f*-480p%2f*!%2fstream%2f22207%2ffile%2fdrm%2fdash%2f*%2f*-360p%2f*~id=69578335~data=hdntl~hmac=b107758b03bb88d9f2d3a27fb6a51df8beccd69a7c06200d121539e3a97e5c8e
 
 
 

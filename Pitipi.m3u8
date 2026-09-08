@@ -76,6 +76,11 @@ EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/
 
 
 #EXTINF:-1 tvg-name="SCTV.id" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_437.jpg" group-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/Flag_of_Indonesia.png" group-title="NASIONAL", SCTV ᴴᴰ 
+#
+
+
+
+#EXTINF:-1 tvg-name="SCTV.id" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_437.jpg" group-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/Flag_of_Indonesia.png" group-title="NASIONAL", SCTV ᴴᴰ Digital 
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://www.rctiplus.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
@@ -85,9 +90,9 @@ EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/
 http://filex.me:8080/akkvdGtMUWkvVnMvaWx3V2hXa2NacE9Ra0g0dTlhc29keDE1OHU4Vm0zV3MvcU5CUjJCSWZTR1FJRnF2VXEyQQ
 
 
-#EXTINF:-1 tvg-name="SCTV.id" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_437.jpg" group-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/Flag_of_Indonesia.png" group-title="NASIONAL", SCTV ᴴᴰ Digital 
-#EXTVLCOPT:http-user-agent=OTT Navigator/1.6.5.5 (Linux;Android 10) ExoPlayerLib/2.13.2
-http://opplextv.cyou:8080/nasir6160/nasir/351030
+
+
+#http://opplextv.cyou:8080/nasir6160/nasir/351030
 
 #http://103.148.44.38:8000/play/a05g/index.m3u8
 

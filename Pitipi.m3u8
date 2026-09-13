@@ -18,14 +18,8 @@ http://livestream.biznetvideo.net/indosiar/smil:indosiar.smil/index.m3u8
 
 
 #EXTINF:-1 tvg-name="Indosiar.id" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/Flag_of_Indonesia.png" group-title="NASIONAL", INDOSIAR ᴴᴰ
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://www.rctiplus.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=1acbfcdbd51446c9bcc7954b95e9947b:5d9842c6aba5528049ee46c309918297
-#https://d2tjypxxy769fn.cloudfront.net/out/v1/e930be336fed49e6b26a7554e113f7a4/index.mpd
-http://filex.me:8080/akkvdGtMUWkvVnMvaWx3V2hXa2NaZ0x0ZXFPbysvMVBvYjc1eXFMemc1a3UxOWR6NmYxUTllMi80N1IzM2tGWQ
-
+#EXTVLCOPT:http-user-agent=MPF_Players/537.36
+http://ktpremium.world:2095/LT8011/827317/73617
 
 
 #EXTINF:-1 tvg-name="Indosiar.id" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/Flag_of_Indonesia.png" group-title="NASIONAL;SPORTS", INDOSIAR ᴴᴰ Digital

@@ -8,16 +8,11 @@
 
 =======================================EMTEX GROUP=======================================
 
-EXTINF:-1 tvg-name="Indosiar.id" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/Flag_of_Indonesia.png" group-title="NASIONAL", INDOSIAR ᴴᴰ Biz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
-#EXTVLCOPT:http-referrer=https://www.vidio.com/
-#EXTVLCOPT:http-origin=https://www.vidio.com
-#http://livestream.biznetvideo.net/indosiar/smil:indosiar.smil/index.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #EXTVLCOPT:http-origin=https://www.vidio.com
-EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
 https://raw.githubusercontent.com/quuen2024/life/refs/heads/queen/indosiar.m3u8
 
 
@@ -150,11 +145,7 @@ https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/22207/res=1080p/file
 
 #EXTINF:-1 tvg-name="Indosiar.id" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="LIGA INDONESIA;SPORTS", INDOSIARᴴᴰ Live vidio²
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
-https://live2.domainkqt.cc/live/channel18.m3u8
-http://013tv.com:8080/F33848/cbd9779b/162138
-
-
-
+http://livestream.biznetvideo.net/indosiar/smil:indosiar.smil/index.m3u8
 
 _____pipamectsdae_____
 

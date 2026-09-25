@@ -158,8 +158,11 @@ https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/22207/res=1080p/file
 
 
 #EXTINF:-1 tvg-name="Indosiar.id" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="LIGA INDONESIA;SPORTS", INDOSIARᴴᴰ Live vidio²
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
-http://livestream.biznetvideo.net/indosiar/smil:indosiar.smil/index.m3u8
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-origin=https://www.vidio.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#https://calistaiptv.my.id/indopart/play.mpd?id=205&type=dash
+https://bintangstreaming.my.id/connect/index.m3u8?channel=indosiar&type=m3u8
 
 _____pipamectsdae_____
 

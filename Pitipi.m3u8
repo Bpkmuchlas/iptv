@@ -424,7 +424,11 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/d6b026ad50f14b7f9af5ddd5450007d4/in
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
 
 #EXTINF:0 tvg-id="MNCTV HD - [Channel 432].id" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mnc_id_tv.png" group-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/Flag_of_Indonesia.png" group-title="NASIONAL",MNCTV ᴴᴰ Digital 
-http://hometv.biz.id:80/play/E4BSh-eTMsc07OXwIFkTWFl4DGRbfqjwOn0TLQlU0uM
+#EXTVLCOPT:http-user-agent=MPF_Players/537.36
+https://raw.githubusercontent.com/quuen2024/life/refs/heads/queen/mnctv.m3u8
+
+
+#http://hometv.biz.id:80/play/E4BSh-eTMsc07OXwIFkTWFl4DGRbfqjwOn0TLQlU0uM
 
 #EXTINF:0 tvg-id="MNCTV HD - [Channel 432].id" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mnc_id_tv.png"  group-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/Flag_of_Indonesia.png" group-title="NASIONAL",MNCTV ᴴᴰ live
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -477,8 +481,12 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
 
 
 #EXTINF:0 tvg-id="RCTI HD - [Channel 430].id" tvg-logo="https://bloguna.com/wp-content/uploads/2025/06/Logo-RCTI-Format-PNG-AI-CDR-PDF-PDF-SVG-768x384.png" group-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/Flag_of_Indonesia.png" group-title="NASIONAL",RCTI ᴴᴰ Digital 
+#EXTVLCOPT:http-user-agent=MPF_Players/537.36
+https://raw.githubusercontent.com/quuen2024/life/refs/heads/queen/rcti.m3u8
+
+
 #http://hometv.biz.id:80/play/E4BSh-eTMsc07OXwIFkTWFly_pN8b3Tl2psOaFdpGi0
-http://103.66.62.83:8000/play/a00v/index.m3u8
+#http://103.66.62.83:8000/play/a00v/index.m3u8
 #http://my.bianet.es.vip.hk:80///12/F36591/3f1a2b5c/157591
 #http://103.226.232.199:9003/play/a0jg/index.m3u8
 #https://raw.githubusercontent.com/hnnyo/lgi/refs/heads/main/rct.m3u8
@@ -518,8 +526,13 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
 --
 #EXTINF:0 tvg-id="GTV HD - [Channel 431].id" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/2498aa1ffc66cf53f77c63b77a787d3a.png" group-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/Flag_of_Indonesia.png" group-title="NASIONAL",GTV ᴴᴰ Digital 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-http://mag.king-4k.cc:80/live/C1645263A1D245C/1sFTVBSVCP/1505835.ts
+https://raw.githubusercontent.com/quuen2024/life/refs/heads/queen/gtv.m3u8
 
+
+
+
+
+#http://mag.king-4k.cc:80/live/C1645263A1D245C/1sFTVBSVCP/1505835.ts
 #http://hometv.biz.id:80/play/E4BSh-eTMsc07OXwIFkTWLNJ6yH6etUJ1pNu76Xmhag
 #http://my.bianet.es.vip.hk:80///12/F36591/3f1a2b5c/157578
 #https://tv.casindo.org/hls/57/57.m3u8

@@ -129,7 +129,7 @@ http://cdn.nng.cloudns.us/live/m3u8/id/d4ff175b1e2d419.m3u8
 
 #EXTINF:-1 tvg-id="Moji.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1200px-Moji_blue.svg.png" group-title="NASIONAL", MOJI ᴴᴰ Digital
 #EXTVLCOPT:http-user-agent=MPF_Players/537.36
-http://157.15.187.3:25092/hls/50/50.m3u8
+http://013tv.com:8080/F33848/cbd9779b/298550
 
 
 #EXTINF:-1 tvg-id="Moji.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1200px-Moji_blue.svg.png" group-title="NASIONAL", MOJI ᴴᴰ vid

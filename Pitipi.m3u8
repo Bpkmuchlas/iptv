@@ -35,10 +35,9 @@ EXTVLCOPT:http-user-agent=MPF_Players/537.36
 
 
 #EXTINF:-1 tvg-name="Indosiar.id" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/Flag_of_Indonesia.png" group-title="NASIONAL;SPORTS", INDOSIAR ᴴᴰ Digital
-#EXTVLCOPT:http-user-agent=MPF_Players/537.36
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xl365.drovaxcontentdelivery.com/
-http://31.43.191.125:8080/VIP019201762490519102/18754640ce7b/34327
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; MiTV-AXSO1) AppleWebKit/537.36
+https://xcpro.biz.id:443/play/dYV3B3XWN54ZV-b1bZJcnsM5HwvOUP-b6zZddY2tfdY
+
 
 
 #EXTINF:-1 tvg-name="Indosiar.id" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/Flag_of_Indonesia.png" group-title="NASIONAL;SPORTS", INDOSIAR ᴴᴰ Digital²

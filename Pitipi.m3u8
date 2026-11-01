@@ -16,10 +16,7 @@ DISCLAIMER : PLAYLIST TIDAK DIJUAL BELIKAN , MURNI PEMAKAIN PRIBADI
 =======================================EMTEX GROUP=======================================
 
 #EXTINF:-1 tvg-name="Indosiar.id" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/Flag_of_Indonesia.png" group-title="NASIONAL;SPORTS", INDOSIAR ᴴᴰ 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
-https://raw.githubusercontent.com/quuen2024/life/refs/heads/queen/indosiar.m3u8
-
+https://raw.githubusercontent.com/Bpkmuchlas/iptv/refs/heads/main/Tess.m3u8
 
 #EXTINF:-1 tvg-name="Indosiar.id" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/Flag_of_Indonesia.png" group-title="NASIONAL", INDOSIAR ᴴᴰ²
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36

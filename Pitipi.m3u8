@@ -148,8 +148,8 @@ http://013tv.com:8080/F33848/cbd9779b/298550
 
 
 #EXTINF:-1 tvg-id="Moji.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1200px-Moji_blue.svg.png" group-title="NASIONAL", MOJI ᴴᴰ vid
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux i686; rv:124.0) Gecko/20100101 Firefox/124.0
-http://202.150.161.212:5000/live/channel39/playlist.m3u8
+#EXTVLCOPT:http-user-agent=MPF_Players/537.36
+http://sansatplus.net:88/live/02029657539259/SE6JIYEDJIC91M4/694356.ts
 
 
 ===
